@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no" name="viewport" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Discord Developer Portal" />
+    <meta property="og:title" content="Discord Developer Portal â API Docs for Bots and Developers" />
+    <meta
+      property="og:description"
+      content="Integrate your service with Discord â whether it's a bot or a game or whatever your wildest imagination can come up with."
+    />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@discord" />
+    <meta name="twitter:creator" content="@discord" />
+<link rel="stylesheet" href="/assets/0.e470f204037b26bc4ad8.css" integrity="sha256-4ExoSWbGgdiuvjwtVvLGRYwD2Em463vsDHNxHZJEzB0= sha512-GMflPZHmkWDe5qEx5yf6+Xg34kQh+JxFb3CGMWSAyqgy1VXlaiyzrC9V3VkeEeG4uHDmNOd4tBgXlg/fqq8NXw=="><link rel="icon" href="/assets/07dca80a102d4149e9736d4b162cff6f.ico" />    <title>Discord Developer Portal</title>
+  </head>
+
+  <body>
+    <div id="app-mount"></div><script>window.GLOBAL_ENV = {
+      API_ENDPOINT: '//discord.com/api',
+      WEBAPP_ENDPOINT: '//discord.com',
+      CDN_HOST: 'cdn.discordapp.com',
+
+      BRAINTREE_KEY: 'production_5st77rrc_49pp2rp4phym7387',
+      STRIPE_KEY: 'pk_live_CUQtlpQUF0vufWpnpUmQvcdi',
+      MARKETING_ENDPOINT: '//discord.com',
+      RELEASE_CHANNEL: 'stable',
+      ALGOLIA_KEY: 'aca0d7082e4e63af5ba5917d5e96bed0',
+    };</script><script src="/assets/366619ca708365b1c67d.js" integrity="sha256-YCwbAKuzoIwnfG1Df6cB/vSmvnYbLTIsKy7oLQzzoP0= sha512-h40l6A0q106uVMF3a4xdZLkRm/PxFZs6mnncK1egWPOcHkq/HgzK5g5qC/Fo6I/fBCVmw4bmBjlleITr44dyGg=="></script><script src="/assets/734c47e42d1b66186446.js" integrity="sha256-fta/1ygimCcLkDkpVnPWYf1jQPTbWnxTsRg3n+sMCOc= sha512-Z6Na8FTV/C+sjL6GcKxFRoBuUwN3QqF3k78LT9UJvGoDQOdLGTTDhB6gPYjaZbL6a7GVBlAWIb3taaA5UybCYA=="></script><script src="/assets/61a1c562490b1ff488d9.js" integrity="sha256-83IOZLyctTWHWS31U18DivIghd5Lt5igfqftV17tHYY= sha512-LVD8+Z7t7a/UcHJsK3dJIzX4xcBTTYyslJA5uVIhLPND4dC0GDrwabVLO1DNjvcahkhyy/aMBZ7KZ/OBTJufdg=="></script>  </body>
+</html>

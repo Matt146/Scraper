@@ -1,0 +1,3688 @@
+
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    
+<!-- Google Tag Manager -->
+<script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-T3HWMDL');
+</script>
+<!-- End Google Tag Manager -->
+<!-- Global site tag (gtag.js) - Google AdWords: 1064982595 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1064982595"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag()
+	{dataLayer.push(arguments);}
+	
+	gtag('js', new Date());
+	
+	gtag('config', 'AW-1064982595');
+</script>
+
+<script>
+	window.addEventListener('load', function() {
+	var mm = document.querySelectorAll(' #donate-classy-component.donate-classy #donate-form.custom-radio-checkbox button#donate_submit.btn');
+	var len = mm.length;
+	for (c = 0; c < len; c++) {
+	document.querySelectorAll(' #donate-classy-component.donate-classy #donate-form.custom-radio-checkbox button#donate_submit.btn')[c].addEventListener('click', function() { /goog_report_conversion();/
+	gtag('event', 'conversion',
+	{'send_to': 'AW-1064982595/NHbTCOTlyoQBEMOw6fsD'}
+	
+	);
+	});
+	}
+	})
+
+</script>
+<!--  End Global site tag (gtag.js) -->
+<!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function()
+    {n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}
+
+    ;
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1698387943710186');
+    fbq('track', 'PageView');
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1698387943710186&ev=PageView&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<!-- Mobile viewport optimization: Required!! -->
+<meta name="HandheldFriendly" content="True"/>
+<meta name="MobileOptimized" content="0"/>
+<!-- The above meta tags *must* come first in the head; any other head content must come *after* these tags -->
+<link rel="icon" href="/etc/clientlibs/ncmec/images/ncmec-logo.png"/>
+<meta name="language" content="en"/>
+<!--<meta name="page-title" content="< %=mkPageBean.getMKPageTitle().replaceAll("&amp;", "&")%>" />-->
+<meta name="keywords"/>
+<meta name="description" content="NCMEC’s CyberTipline is the nation’s centralized reporting system for the online exploitation of children. The public and electronic service providers can make reports of suspected online enticement of children for sexual acts, extra-familial child sexual molestation, child pornography, child sex tourism, child sex trafficking, unsolicited obscene materials sent to a child, misleading domain names, and misleading words or digital images on the internet."/>
+
+<meta name="twitter:image" content="/content/dam/missingkids/gethelp/gethelpnow_cybertipline.jpg"/>
+<meta name="twitter:title" content="CyberTipline"/>
+<meta name="twitter:description" content="NCMEC’s CyberTipline is the nation’s centralized reporting system for the online exploitation of children. The public and electronic service providers can make reports of suspected online enticement of children for sexual acts, extra-familial child sexual molestation, child pornography, child sex tourism, child sex trafficking, unsolicited obscene materials sent to a child, misleading domain names, and misleading words or digital images on the internet."/>
+<meta name="twitter:card" content="summary"/>
+<meta name="google-site-verification" content="5-O_xrz-CKm220KbMDJP9uLxkwtiovgdPCEsnL3vogg"/>
+
+
+
+<title>CyberTipline</title>
+    
+
+
+    
+<link rel="stylesheet" href="/etc/clientlibs/ncmec/main.min.css" type="text/css">
+
+
+
+
+
+
+
+
+
+<!--/* Include author.css category when mode is edit   */ -->
+
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3HWMDL" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+      </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="wrapper">
+   <div class="section"></div><div class="iparys_inherited">
+
+   
+<a id="uhfSkipToMain" class="m-skip-to-main" href="#primaryArea" tabindex="0">Skip to main content</a>
+<header class="header-container">
+    <nav class="navbar navbar-fixed-top">
+        <div class="nav-top">
+            <div class="container">
+                <div class="nav-wrapper -spread -vcenter -top">
+                    <div class="nav-left">
+                        
+                            <a href="http://go.missingkids.org/l/808593/2019-12-18/5n4b" class="subscribe-btn">Subscribe</a>
+                            <p class="description">Get the latest updates from NCMEC</p>
+                        
+                    </div>
+                    <div class="nav-right">
+                        
+
+    
+
+
+    
+    
+        <ul class="social-icons">
+            <li><a href="https://www.facebook.com/missingkids/?utm_source=top_nav&utm_medium=button_click">
+                <img srcset="/content/dam/missingkids/icons/Facebookfooter-logo.svg" alt="facebook" type="image/svg+xml" style="height: 28px; width: 20px; "/>
+            </a></li>
+        
+            <li><a href="https://twitter.com/MissingKids/?utm_source=top_nav&utm_medium=button_click">
+                <img srcset="/content/dam/missingkids/icons/Twitterfooter-logo.svg" alt="twitter" type="image/svg+xml" style="height: 28px; width: 20px; "/>
+            </a></li>
+        
+            <li><a href="https://www.youtube.com/missingkids/?utm_source=top_nav&utm_medium=button_click">
+                <img srcset="/content/dam/missingkids/icons/YouTubefooter-logo.svg" alt="youtube" type="image/svg+xml" style="height: 28px; width: 20px; "/>
+            </a></li>
+        
+            <li><a href="https://www.instagram.com/Missingkids/?utm_source=top_nav&utm_medium=button_click">
+                <img srcset="/content/dam/missingkids/icons/Instagramfooter-logo.svg" alt="instagram" type="image/svg+xml" style="height: 28px; width: 20px; "/>
+            </a></li>
+        </ul>
+    
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="nav-wrapper -vcenter -bottom">
+               <a class="navbar-brand" href="/home">
+                   <img src="/content/dam/missingkids/logos/ncmec%20logo-website.png" class="logo mobile-logo" alt="NCMEC logo"/>
+                </a>
+                <div class="nav-center">
+                    <div class="nav-column -full">
+                        <div id="navbar" class="nav-row js-navigation">
+                            <ul class="" role="menubar">
+                                
+
+   
+
+    <li role="menuitem"><a href="/gethelpnow" class="dropdown-toggle" data-toggle="dropdown">GET HELP </a>
+        
+            <ul class="dropdown-menu clearfix">
+                <li class="primary-link"><a class="seperator" href="/gethelpnow">GET HELP </a></li>
+                
+
+   
+
+<li>
+    <a href="/gethelpnow/cybertipline" target="_self" class="seperator">CyberTipline</a>
+    <ul role="menu">
+        
+            <li role="menuitem"><a href="/gethelpnow/isyourexplicitcontentoutthere" target="_self">Is Your Explicit Content Out There?</a></li>
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/gethelpnow/csam-resources" target="_self" class="seperator">Exploitation Resources</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/gethelpnow/isyourchildmissing" target="_self" class="seperator">Is Your Child Missing?</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/gethelpnow/search" target="_self" class="seperator">Search for Missing Children</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/gethelpnow/amber" target="_self" class="seperator">AMBER Alerts</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/gethelpnow/clearinghouses" target="_self" class="seperator">State Missing Persons Clearinghouses</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+            </ul>
+    </li>
+
+
+
+
+   
+
+    <li role="menuitem"><a href="/theissues" class="dropdown-toggle" data-toggle="dropdown">THE ISSUES</a>
+        
+            <ul class="dropdown-menu clearfix">
+                <li class="primary-link"><a class="seperator" href="/theissues">THE ISSUES</a></li>
+                
+
+   
+
+<li>
+    <a href="/theissues/autism" target="_self" class="seperator">Autism &amp; Wandering</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/theissues/trafficking" target="_self" class="seperator">Child Sex Trafficking</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/theissues/end-to-end-encryption" target="_self" class="seperator">End-to-End Encryption</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/theissues/familyabduction" target="_self" class="seperator">Family Abduction</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/theissues/helpidme" target="_self" class="seperator">Help ID Me</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/theissues/infantabductions" target="_self" class="seperator">Infant Abductions</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/theissues/longtermmissing" target="_self" class="seperator">Long-Term Missing</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/theissues/cmfc" target="_self" class="seperator">Missing From Care</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/theissues/onlineenticement" target="_self" class="seperator">Online Enticement</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/theissues/othertypes" target="_self" class="seperator">Other Types of Missing</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/theissues/runaways" target="_self" class="seperator">Endangered Runaways</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/theissues/sextortion" target="_self" class="seperator">Sextortion</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/theissues/csam" target="_self" class="seperator">Child Sexual Abuse Material</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/theissues/nonfamily" target="_self" class="seperator">Nonfamily Abductions &amp; Attempts</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+            </ul>
+    </li>
+
+
+
+
+   
+
+    <li role="menuitem"><a href="/ourwork" class="dropdown-toggle" data-toggle="dropdown">OUR WORK</a>
+        
+            <ul class="dropdown-menu clearfix">
+                <li class="primary-link"><a class="seperator" href="/ourwork">OUR WORK</a></li>
+                
+
+   
+
+<li>
+    <a href="/ourwork/disasters" target="_self" class="seperator">Disaster Preparedness &amp; Response</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/ourwork/support" target="_self" class="seperator">Victim &amp; Family Support</a>
+    <ul role="menu">
+        
+            <li role="menuitem"><a href="/ourwork/support/legalresources" target="_self">Legal Resources</a></li>
+        
+            <li role="menuitem"><a href="/ourwork/support/teamhope" target="_self">Team HOPE</a></li>
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/ourwork/caseresources" target="_self" class="seperator">Case Resources</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/ourwork/ncmecdata" target="_self" class="seperator">NCMEC Data</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/ourwork/publications" target="_self" class="seperator">Publications</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/footer/about" target="_self" class="seperator">About Us</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+            </ul>
+    </li>
+
+
+
+
+   
+
+    <li role="menuitem"><a href="/education" class="dropdown-toggle" data-toggle="dropdown">EDUCATION</a>
+        
+            <ul class="dropdown-menu clearfix">
+                <li class="primary-link"><a class="seperator" href="/education">EDUCATION</a></li>
+                
+
+   
+
+<li>
+    <a href="/education/training" target="_self" class="seperator">Professional Training</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="http://www.Kidsmartz.org" target="_blank" class="seperator">KidSmartz</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/netsmartz/home" target="_blank" class="seperator">NetSmartz</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="http://codeadam.missingkids.org/" target="_blank" class="seperator">Code Adam</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+            </ul>
+    </li>
+
+
+
+
+   
+
+    <li role="menuitem"><a href="/supportus" class="dropdown-toggle" data-toggle="dropdown">SUPPORT US</a>
+        
+            <ul class="dropdown-menu clearfix">
+                <li class="primary-link"><a class="seperator" href="/supportus">SUPPORT US</a></li>
+                
+
+   
+
+<li>
+    <a href="/supportus/store" target="_self" class="seperator">Store</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/supportus/events" target="_self" class="seperator">Events</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/supportus/get-involved" target="_self" class="seperator">Get Involved</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/supportus/pon" target="_self" class="seperator">Professional Organizations &amp; Networks</a>
+    <ul role="menu">
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/supportus/our-corporate-partners" target="_self" class="seperator">Corporate Partners</a>
+    <ul role="menu">
+        
+            <li role="menuitem"><a href="/supportus/our-corporate-partners/become-a-corporate-partner" target="_self">Become a Corporate Partner</a></li>
+        
+    </ul>
+</li>                 
+
+
+   
+
+<li>
+    <a href="/supportus/program-partners" target="_self" class="seperator">Program Partners</a>
+    <ul role="menu">
+        
+            <li role="menuitem"><a href="/supportus/program-partners/become-a-program-partner" target="_self">Become a Program Partner</a></li>
+        
+    </ul>
+</li>                 
+
+
+            </ul>
+    </li>
+
+
+
+
+                            </ul>
+                        </div>
+                        <div class="nav-row">
+                            
+
+<div class="breadcrumbs">
+	<div class="container">
+		<ol class="breadcrumb">
+			 
+			<li><a href="/gethelpnow">Get Help Now </a></li>
+			
+			<li class="active">CyberTipline</li>
+			
+		</ol>
+	</div>
+</div>
+ 
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="nav-right">
+                    <div class="nav-column site-functionalities">
+                        <form class="header-search-form js-search-form" onsubmit="return searchQuery()">
+                            <input id="searchform" class="search-query" aria-label="search expanded" data-searchUrl="/home/site-search" type="text" name="search" placeholder="Search" maxlength="40" required tabindex="0"/>
+                            <button id="searchbutton" class="search-submit" type="submit"><i class="icon-search"></i></button>
+                        </form>
+                        <a class="search-icon js-search-toggle" tabindex="0">
+                            <i class="icon-search" aria-label="Submit Search"></i>
+                            <i class="icon-close" aria-label="Close Search"></i>
+                        </a>
+                        <div class="language-selector">
+                            <label class="switch">
+                              <span class="lang">
+                                  <span class="en"><a href="/gethelpnow/cybertipline" aria-label="Language Selector: English">EN</a></span>
+                                  <span class="sp"><a href="http://esp.missingkids.org/gethelpnow/cybertipline" aria-label="Language Selector: Spanish">SP</a></span>
+                              </span>
+                            </label>
+                        </div>
+                    </div>
+                    <div class="nav-column -row">
+                        <div class="donate-btn-container"><a href="https://www.classy.org/give/82059/#!/donation/checkout" type="button" class="btn btn-xs btn-primary">DONATE</a></div>
+                        <button type="button" class="navbar-toggle js-menu-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                            <span class="sr-only">Toggle navigation</span>
+                            <div class="hamburger-icon">
+                                <span class="dot -top"></span>
+                                <span class="dot -center"></span>
+                                <span class="dot -bottom"></span>
+                            </div>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+</div>
+
+
+   
+    
+
+    <article id="primaryArea" class="content-wrapper">
+        <div class="container">
+        <div class="clearfix js-extendheight">
+          
+              <div class="col-sm-12 main-content-area">
+                  <div>
+
+    
+
+
+	
+
+    
+
+
+<div class="hero-banner-wrapper ">
+    <div class="hero-banner hero-banner-carousel image-content">
+        <a>
+        <picture>
+            <!-- tablet landscape -->
+            <source media="(min-width:769px) and (max-width: 1024px) and (orientation: landscape)" srcset="/content/dam/missingkids/gethelp/gethelpnow_cybertipline.jpg.transform/hero-tablet-landscape/image.jpg"/>
+            <!-- mobile devices -->
+            <source media="(max-width:767px)" srcset="/content/dam/missingkids/gethelp/gethelpnow_cybertipline.jpg.transform/hero-mobile/image.jpg"/>
+            <!-- tablet portrait -->
+            <source media="(min-width: 768px) and (max-width: 768px) and (orientation: portrait)" srcset="/content/dam/missingkids/gethelp/gethelpnow_cybertipline.jpg.transform/hero-tablet-portrait/image.jpg"/>
+            <!-- desktop -->
+            <img class="hero-full-width" src="/content/dam/missingkids/gethelp/gethelpnow_cybertipline.jpg" alt="cybertip logo"/>
+
+        </picture>
+        <div class="hero-content-wrapper container left">
+            <div class="hero-content-wrapper no-width container ncmec-hb-vTopAlignment">
+                <div class="hero-content" style="color: !important">
+                    
+
+                    
+
+                    
+                    <div class="btn btn-sm btn-link  no left" style="color: !important">
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </div>
+    
+    
+    <!--Image Right Align and Text Left Align-->
+    
+
+    <!--Image Left Align and Text Right Align-->
+    
+
+</div>
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div class="fixedhotbarbottom">
+    <div class="row ncmec2-hotbar">
+        <div class="flex-parent ">
+            <div class="outside-container">
+                <div class="hidden-xs hidden-sm ">
+                    <div class="hotlinetext flex-hotline-parent">
+                        <a><img class="img-responsive" src="/content/dam/missingkids/icons/quick-button-phone.svg" style="width: 60.75px; height: 35px;"/>24-Hour&nbsp;Hotline</br>1-800-843-5678</a>
+                    </div>
+                </div>
+                
+
+                    <div class="hidden-xs hidden-sm  flex-child">
+                        <div class="hotbartext1"><a href="http://www.missingkids.org/search">Search Missing Posters</a></div>
+                    </div>
+                
+
+                    <div class="hidden-xs hidden-sm  flex-child">
+                        <div class="hotbartext1"><a href="https://report.cybertip.org/">Make a CyberTipline Report</a></div>
+                    </div>
+                
+
+                    <div class="hidden-xs hidden-sm  flex-child">
+                        <div class="hotbartext1"><a href="/gethelpnow/amber">AMBER Alerts</a></div>
+                    </div>
+                
+            </div>
+        </div>
+
+        <div class="flex-parent quickbutton-tablet-container">
+            
+                <div class=" hidden-md hidden-lg quickbtnbar-icons">
+                    <a href="tel:18008435678"><img class="img-responsive" srcset="/content/dam/missingkids/icons/quick-button-hotline.svg" type="image/svg+xml" style="width: 87.75px; height: 46px;"/></a>
+                </div>
+            
+                <div class=" hidden-md hidden-lg quickbtnbar-icons">
+                    <a href="/search"><img class="img-responsive" srcset="/content/dam/missingkids/icons/quick-button-search.svg" type="image/svg+xml" style="width: 87.75px; height: 46px;" alt="www.missingkids.org/search"/></a>
+                </div>
+            
+                <div class=" hidden-md hidden-lg quickbtnbar-icons">
+                    <a href="/gethelpnow/cybertipline"><img class="img-responsive" srcset="/content/dam/missingkids/icons/quick-button-cybertipline.svg" type="image/svg+xml" style="width: 87.75px; height: 46px;"/></a>
+                </div>
+            
+                <div class=" hidden-md hidden-lg quickbtnbar-icons">
+                    <a href="/gethelpnow/amber"><img class="img-responsive" srcset="/content/dam/missingkids/icons/quick-button-amber.svg" type="image/svg+xml" style="width: 87.75px; height: 46px;"/></a>
+                </div>
+            
+        </div>
+    </div>
+</div>
+
+    
+
+
+
+
+
+
+<div class="row ncmec2-container" style="z-index:auto; border-top-left-radius:0px; border-top-right-radius:0px;border-bottom-right-radius:0px; 
+     border-bottom-left-radius:0px; background-color:rgba(253,184,19,1);
+     opacity:; padding:36px 0px 36px 0px;
+     margin:0px 0px 0px 0px">
+
+    
+
+     <div class="col-sm-12 col-lg-10 col-lg-offset-1 cq-Editable-dom">
+    	
+
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+<div class="nmec2-text2" style="border-radius:; background-color:rgba(253,184,19,1);
+     opacity:;
+     padding:0px 0px 0px 0px;
+     margin:0px 0px 0px 0px">
+    <p style="text-align: center;"><span class="ncmec2-h2">Is a child being sexually exploited online?</span></p>
+<p style="text-align: center;"><a href="https://report.cybertip.org/"><b><span class="ncmec2-Stat2"><u>Report it here.</u></span></b></a></p>
+
+</div>
+
+    
+
+
+
+
+     </div>
+
+
+</div>
+
+
+
+
+    
+
+
+
+
+
+	<div id="stickytopbar">
+	    
+	      <a href="#overview" class="tab">Overview</a>
+	    
+	      <a href="#whathappenstoinformationinacybertip" class="tab">What Happens to a Tip?</a>
+	    
+	      <a href="#isyourimageoutthere" class="tab">Is Your Image Out There?</a>
+	    
+	      <a href="#bythenumbers" class="tab">By the Numbers</a>
+	    
+	      <a href="#more" class="tab">More</a>
+	    
+	</div>
+
+
+    
+
+
+
+
+<script>
+window.onscroll = function() {myFunction()};
+
+var stickytopbar = document.getElementById("stickytopbar");
+var sticky = stickytopbar.offsetTop;
+var navDropdown= document.getElementById("navbar");
+
+function myFunction() {
+
+  if (window.pageYOffset >= sticky) {
+      if (navDropdown.classList.contains('-open')) {
+			stickytopbar.classList.add("sticky-dropdown")
+      }
+	  stickytopbar.classList.add("sticky");
+  } else {
+	  stickytopbar.classList.remove("sticky");
+      if(!(navDropdown.classList.contains('-open'))){
+          stickytopbar.classList.remove("sticky-dropdown")
+	  }
+  }
+}
+</script>
+  
+
+
+    
+
+
+
+
+
+
+<div>
+    <a class="anchortag" id="overview"></a>
+</div>
+
+
+    
+
+
+
+
+
+
+<div class="row ncmec2-container" style="z-index:auto; border-top-left-radius:0px; border-top-right-radius:0px;border-bottom-right-radius:0px; 
+     border-bottom-left-radius:0px; background-color:rgba(198,200,202,1);
+     opacity:1.0; padding:100px 0px 100px 0px;
+     margin:0px 0px 0px 0px">
+
+    
+
+     <div class="col-sm-12 col-lg-10 col-lg-offset-1 cq-Editable-dom">
+    	
+
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+
+<div class="row ncmec2-container" style="z-index:1; border-top-left-radius:20px; border-top-right-radius:20px;border-bottom-right-radius:20px; 
+     border-bottom-left-radius:20px; background-color:rgba(255,255,255,1);
+     opacity:; padding:36px 0px 36px 0px;
+     margin:0px 0px 0px 0px">
+
+    
+
+     <div class="col-sm-12 col-lg-10 col-lg-offset-1 cq-Editable-dom">
+    	
+
+
+
+
+    
+    
+    
+<div class="cmp-title">
+    <h1 class="cmp-title2" align="center" style="color:"><div>Overview</div></h1>
+</div>
+
+    
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+<div class="nmec2-text2" style="border-radius:20px; background-color:rgba(255,255,255,1);
+     opacity:.9;
+     padding:0px 0px 0px 0px;
+     margin:0px 0px 0px 0px">
+    <p style="text-align: center;"><span class="ncmec2-p2">NCMEC’s CyberTipline is the nation’s centralized reporting system for the online exploitation of children. The public and electronic service providers can make reports of suspected online enticement of children for sexual acts, extra-familial child sexual molestation, child pornography, child sex tourism, child sex trafficking, unsolicited obscene materials sent to a child, misleading domain names, and misleading words or digital images on the internet.</span></p>
+
+</div>
+
+    
+
+
+
+
+     </div>
+
+
+</div>
+
+
+
+
+
+     </div>
+
+
+</div>
+
+
+
+  
+
+
+    
+
+
+
+
+
+
+<div>
+    <a class="anchortag" id="whathappenstoinformationinacybertip"></a>
+</div>
+
+
+    
+
+
+
+
+
+
+<div class="row ncmec2-container" style="z-index:auto; border-top-left-radius:0px; border-top-right-radius:0px;border-bottom-right-radius:0px; 
+     border-bottom-left-radius:0px; background-color:rgba(64,64,65,1);
+     opacity:; padding:100px 0px 100px 0px;
+     margin:0px 0px 0px 0px">
+
+    
+
+     <div class="col-sm-12 col-lg-10 col-lg-offset-1 cq-Editable-dom">
+    	
+
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+
+<div class="row ncmec2-container" style="z-index:auto; border-top-left-radius:20px; border-top-right-radius:20px;border-bottom-right-radius:0px; 
+     border-bottom-left-radius:0px; background-color:#ffffff;
+     opacity:; padding:36px 0px 0px 0px;
+     margin:0px 0px 0px 0px">
+
+    
+
+     <div class="col-sm-12 col-lg-10 col-lg-offset-1 cq-Editable-dom">
+    	
+
+
+
+
+    
+    
+    
+<div class="cmp-title">
+    <h1 class="cmp-title2" align="center" style="color:rgba(64,64,65,1)"><div>What Happens to Information in a CyberTip?</div></h1>
+</div>
+
+    
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+<div class="nmec2-text2" style="border-radius:; background-color:rgba(255,255,255,1);
+     opacity:;
+     padding:0px 0px 24px 0px;
+     margin:0px 0px 0px 0px">
+    <p style="text-align: center;"><span class="ncmec2-p3">NCMEC staff review each tip and work to find a potential location for the incident reported so that it may be made available to the appropriate law-enforcement agency for possible investigation. We also use the information from our CyberTipline reports to help shape our prevention and safety messages.</span></p>
+
+</div>
+
+    
+
+
+
+    
+    
+    
+  
+
+
+    
+
+
+
+
+
+
+<div>
+    <a class="anchortag" id="isyourimageoutthere"></a>
+</div>
+
+
+    
+    
+    
+<div class="cmp-title">
+    <h1 class="cmp-title2" align="center" style="color:"><div>Is Your Image Out There?</div></h1>
+</div>
+
+    
+
+
+
+
+     </div>
+
+
+</div>
+
+
+
+
+    
+    
+    
+  
+
+
+    
+
+
+
+
+<div class="yellowbar" style="background-color:;">
+    <h4 class="col-sm-offset-1" style="color:">Get Support</h4>
+</div>
+
+    
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+
+<div class="row ncmec2-container" style="z-index:auto; border-top-left-radius:0px; border-top-right-radius:0px;border-bottom-right-radius:0px; 
+     border-bottom-left-radius:0px; background-color:#ffffff;
+     opacity:; padding:24px 0px 48px 0px;
+     margin:0px 0px 0px 0px">
+
+    
+
+     <div class="col-sm-12 col-lg-10 col-lg-offset-1 cq-Editable-dom">
+    	
+
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+<div class="nmec2-text2" style="border-radius:; background-color:rgba(255,255,255,1);
+     opacity:;
+     padding:0px 0px 0px 0px;
+     margin:0px 0px 0px 0px">
+    <p><span class="ncmec2-p3">One of the worst things about having an explicit image online is feeling like you’re facing everything alone. But you have people who care for you and want to help. Reach out to them!</span><br />
+</p>
+<p><span class="ncmec2-p3"><i>A trusted adult </i>can offer advice, help you report, and help you deal with other issues. It could be your mom, dad, an aunt, a school counselor, or anyone you trust and are comfortable talking to. You can also “self report” by making a report on your own to the CyberTipline.</span></p>
+<p><span class="ncmec2-p3">Families of exploited children often feel alone in their struggle and overwhelmed by the issues affecting their lives. <a title="http://www.missingkids.org/ourwork/support" href="http://www.missingkids.org/ourwork/support">NCMEC provides assistance and support to victims and families</a> such as crisis intervention and local counseling referrals to appropriate professionals. Additionally, <a title="http://www.missingkids.org/ourwork/support/teamhope" href="http://www.missingkids.org/ourwork/support/teamhope">NCMEC’s Team HOPE</a> is a volunteer program that connects families to others who have experienced the crisis of a sexually exploited child.</span></p>
+
+</div>
+
+    
+
+
+
+
+     </div>
+
+
+</div>
+
+
+
+
+    
+    
+    
+  
+
+
+    
+
+
+
+
+<div class="yellowbar" style="background-color:;">
+    <h4 class="col-sm-offset-1" style="color:">Don&#39;t Give Up</h4>
+</div>
+
+    
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+
+<div class="row ncmec2-container" style="z-index:auto; border-top-left-radius:0px; border-top-right-radius:0px;border-bottom-right-radius:20px; 
+     border-bottom-left-radius:20px; background-color:rgba(255,255,255,1);
+     opacity:; padding:24px 0px 100px 0px;
+     margin:0px 0px 0px 0px">
+
+    
+
+     <div class="col-sm-12 col-lg-10 col-lg-offset-1 cq-Editable-dom">
+    	
+
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+<div class="nmec2-text2" style="border-radius:; background-color:rgba(255,255,255,1);
+     opacity:;
+     padding:0px 0px 0px 0px;
+     margin:0px 0px 0px 0px">
+    <p><span class="ncmec2-p3">Having a sexual exploitative image of yourself exposed online is a scary experience. It can make you feel vulnerable and isolated, but remember, others have been in the same situation as you – and they’ve overcome it. <a href="/gethelpnow/isyourexplicitcontentoutthere">Learn the steps you can take to limit the spread of the content.</a></span><br />
+</p>
+
+</div>
+
+    
+
+
+
+
+     </div>
+
+
+</div>
+
+
+
+
+
+     </div>
+
+
+</div>
+
+
+
+  
+
+
+    
+
+
+
+
+
+
+<div>
+    <a class="anchortag" id="bythenumbers"></a>
+</div>
+
+
+    
+
+
+
+
+
+
+<div class="row ncmec2-container" style="z-index:auto; border-top-left-radius:0px; border-top-right-radius:0px;border-bottom-right-radius:0px; 
+     border-bottom-left-radius:0px; background-color:rgba(173,26,31,1);
+     opacity:; padding:72px 0px 100px 0px;
+     margin:0px 0px 0px 0px">
+
+    
+
+     <div class="col-sm-12 col-lg-10 col-lg-offset-1 cq-Editable-dom">
+    	
+
+
+
+
+    
+    
+    
+<div class="cmp-title">
+    <h1 class="cmp-title2" align="left" style="color:rgba(255,255,255,1)"><div>By the Numbers</div></h1>
+</div>
+
+    
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+
+
+
+
+<div class="row ncmec2-colctrlcomp" style="border-radius:; background-color:;opacity:;">
+	
+		
+		
+		
+		<div class="colctrcol col-md-4 col-sm-4">
+			
+
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+<div class="nmec2-text2" style="border-radius:20px; background-color:#ffffff;
+     opacity:;
+     padding:60px 12px 72px 12px;
+     margin:0px 0px 0px 0px">
+    <p style="text-align: center;"><span class="ncmec2-p2">In 2019, the CyberTipline received </span></p>
+<p style="text-align: center;"><span class="ncmec2-Stat2"><b>16.9 million</b></span><span class="ncmec2-p2"> </span></p>
+<p style="text-align: center;"><span class="ncmec2-p2">reports.</span></p>
+
+</div>
+
+    
+
+
+
+
+		</div>
+	
+		
+		
+		
+		<div class="colctrcol col-md-4 col-sm-4">
+			
+
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+<div class="nmec2-text2" style="border-radius:20px; background-color:#ffffff;
+     opacity:;
+     padding:18px 12px 6px 12px;
+     margin:0px 0px 0px 0px">
+    <p style="text-align: center;"><span class="ncmec2-p2">In 2019, the CyberTipline received </span></p>
+<p style="text-align: center;"><span class="ncmec2-Stat2"><b>150,667</b></span><span class="ncmec2-p2"> </span></p>
+<p style="text-align: center;"><span class="ncmec2-p2">reports from the general public and </span></p>
+<p style="text-align: center;"><span class="ncmec2-Stat2"><b>16,836,694</b></span><span class="ncmec2-p2"> </span></p>
+<p style="text-align: center;"><span class="ncmec2-p2">from Electronic Service Providers.</span></p>
+
+</div>
+
+    
+
+
+
+
+		</div>
+	
+		
+		
+		
+		<div class="colctrcol col-md-4 col-sm-4">
+			
+
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+<div class="nmec2-text2" style="border-radius:20px; background-color:#ffffff;
+     opacity:;
+     padding:36px 12px 24px 12px;
+     margin:0px 0px 0px 0px">
+    <p style="text-align: center;"><span class="ncmec2-p2">In 2019, Cybertipline reports included </span></p>
+<p style="text-align: center;"><span class="ncmec2-Stat2"><b>69.1 million</b></span><span class="ncmec2-p2"> </span></p>
+<p style="text-align: center;"><span class="ncmec2-p2">images, videos and other files related to child sexual exploitation. </span></p>
+
+</div>
+
+    
+
+
+
+
+		</div>
+	
+</div>
+
+
+
+
+
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+
+<div class="row ncmec2-container" style="z-index:auto; border-top-left-radius:0px; border-top-right-radius:0px;border-bottom-right-radius:0px; 
+     border-bottom-left-radius:0px; background-color:rgba(173,26,31,1);
+     opacity:; padding:50px 0px 0px 0px;
+     margin:0px 0px 0px 0px">
+
+    
+
+     <div class="col-sm-12 col-lg-10 col-lg-offset-1 cq-Editable-dom">
+    	
+
+
+
+
+
+     </div>
+
+
+</div>
+
+
+
+
+    
+    
+    
+
+   
+<div class="panel-group row" id="accordioncomp" role="tablist" aria-multiselectable="true">
+      
+         <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="2019 Total Files by Type202007021905">
+               <h4 class="panel-title">
+                  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2019TotalFilesbyType202007021905" class="collapsed" aria-expanded="false" aria-controls="accordionModel2019TotalFilesbyType202007021905">
+                  <i class="more-less fa fa-plus-circle"></i>
+                  2019 Total Files by Type
+                  </a>
+               </h4>
+            </div>
+            <div id="collapse2019TotalFilesbyType202007021905" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2019TotalFilesbyType202007021905">
+               <div class="panel-body">
+                  
+
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+
+<div class="row ncmec2-container" style="z-index:auto; border-top-left-radius:0px; border-top-right-radius:0px;border-bottom-right-radius:0px; 
+     border-bottom-left-radius:0px; background-color:#ffffff;
+     opacity:; padding:24px 0px 24px 0px;
+     margin:0px 0px 0px 0px">
+
+    
+
+     <div class="col-sm-12 col-lg-10 col-lg-offset-1 cq-Editable-dom">
+    	
+
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+<div class="nmec2-text2" style="border-radius:; background-color:rgba(255,255,255,1);
+     opacity:;
+     padding:0px 0px 24px 0px;
+     margin:0px 0px 0px 0px">
+    <p><span class="ncmec2-p3">Reports made to the CyberTipline include images, videos and other files related to child sexual exploitation. NCMEC staff review these files searching for information to help assess the risk to the potential victims of child sexual abuse and determine the location of the incident so it can be referred to the appropriate law enforcement.</span></p>
+
+</div>
+
+    
+
+
+
+    
+    
+    <!--
+
+  Table Component component.
+
+  This is a table component created for NCMEC Site
+
+-->
+
+
+    
+
+
+<div class="row" data-example-id="bordered-table">
+	<div data-attr-table="dataTable">
+		<div>
+<table border="0" cellpadding="0" cellspacing="0" width="560">
+<tbody><tr><th height="20" width="188" valign="middle" style="text-align: left;">Type</th>
+<th valign="middle" style="text-align: right;"><b>Number of Files</b></th>
+</tr><tr><td height="20">Images</td>
+<td valign="middle" style="text-align: right;">27,788,328</td>
+</tr><tr><td height="20">Videos</td>
+<td valign="middle" style="text-align: right;">41,280,816</td>
+</tr><tr><td height="20">Other</td>
+<td valign="middle" style="text-align: right;">89,053</td>
+</tr><tr><td height="20"> </td>
+<td valign="middle" style="text-align: right;"> </td>
+</tr><tr><td height="20"><b>Total</b></td>
+<td valign="middle" style="text-align: right;"><b>69,158,197</b></td>
+</tr></tbody></table>
+
+</div>
+	</div>
+</div>
+
+
+     </div>
+
+
+</div>
+
+
+
+
+
+               </div>
+            </div>
+         </div>
+      
+</div>
+
+
+    
+    
+    
+
+   
+<div class="panel-group row" id="accordioncomp" role="tablist" aria-multiselectable="true">
+      
+         <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="2019 Reports by Country202007021905">
+               <h4 class="panel-title">
+                  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2019ReportsbyCountry202007021905" class="collapsed" aria-expanded="false" aria-controls="accordionModel2019ReportsbyCountry202007021905">
+                  <i class="more-less fa fa-plus-circle"></i>
+                  2019 Reports by Country
+                  </a>
+               </h4>
+            </div>
+            <div id="collapse2019ReportsbyCountry202007021905" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2019ReportsbyCountry202007021905">
+               <div class="panel-body">
+                  
+
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+
+<div class="row ncmec2-container" style="z-index:auto; border-top-left-radius:0px; border-top-right-radius:0px;border-bottom-right-radius:0px; 
+     border-bottom-left-radius:0px; background-color:rgba(255,255,255,1);
+     opacity:; padding:48px 0px 48px 0px;
+     margin:0px 0px 0px 0px">
+
+    
+
+     <div class="col-sm-12 col-lg-10 col-lg-offset-1 cq-Editable-dom">
+    	
+
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+<div class="nmec2-text2" style="border-radius:; background-color:#ffffff;
+     opacity:;
+     padding:0px 0px 0px 0px;
+     margin:0px 0px 0px 0px">
+    <p><span class="ncmec2-p3">These numbers depict the reports per country from the 16.9 million reports of suspected child sexual exploitation received by the CyberTipline in 2019.</span></p>
+<p><span class="ncmec2-p3">U.S. based electronic service providers, in accordance with 18 U.S.C 2258A, are required to report incidents of “apparent child pornography” (also known as “child sexual abuse material”) which they believe violate section <a href="https://www.law.cornell.edu/uscode/text/18/2251" target="_blank">2251</a>, <a href="https://www.law.cornell.edu/uscode/text/18/2251A" target="_blank">2251A</a>, <a href="https://www.law.cornell.edu/uscode/text/18/2252" target="_blank">2252</a>, <a href="https://www.law.cornell.edu/uscode/text/18/2252A" target="_blank">2252A</a>, <a href="https://www.law.cornell.edu/uscode/text/18/2252B" target="_blank">2252B</a>, or <a href="https://www.law.cornell.edu/uscode/text/18/2260" target="_blank">2260</a>.</span></p>
+<p><span class="ncmec2-p3">Most CyberTipline reports include geographic indicators related to the upload location of the child sexual abuse material. It is important to note that country-specific numbers may be impacted by the use of proxies and anonymizers. In addition, due to variance of law, each country must apply its own national laws when assessing the illegality of the reported content.</span></p>
+<p><span class="ncmec2-p3">These numbers are generated for informational purposes only. These numbers are <u>not</u> indicative of the level of child sexual abuse in a particular country. You can find a breakdown of those reports <a href="/content/dam/missingkids/pdfs/2019%20CyberTipline%20Reports%20by%20Country.pdf" target="_blank">here</a> and below.</span></p>
+
+</div>
+
+    
+
+
+
+
+     </div>
+
+
+</div>
+
+
+
+
+    
+    
+    
+<div data-cmp-is="image" data-cmp-src="/content/ncmec/en/gethelpnow/cybertipline/jcr%3acontent/mainpar/container_1678552669/null/accordion_962335372/accordionpar/image.img.png" data-asset="/content/dam/missingkids/gethelp/cybertipline-CT World Map.png" class="cmp-image">
+    
+         
+            <img src="/content/ncmec/en/gethelpnow/cybertipline/_jcr_content/mainpar/container_1678552669/null/accordion_962335372/accordionpar/image.img.png" class="cmp-image__image img-rounded" data-cmp-hook-image="image" width="100%" alt/>
+        
+    
+    
+</div>
+
+    
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+
+
+
+
+<div class="row ncmec2-colctrlcomp" style="border-radius:; background-color:rgba(255,255,255,1);opacity:;">
+	
+		
+		
+		
+		<div class="colctrcol col-md-4 col-sm-6">
+			
+
+
+
+
+    
+    
+    <!--
+
+  Table Component component.
+
+  This is a table component created for NCMEC Site
+
+-->
+
+
+    
+
+
+<div class="row" data-example-id="bordered-table">
+	<div data-attr-table="dataTable">
+		<div>
+<table width="100%" cellspacing="0" cellpadding="1" border="1">
+<tbody><tr><th width="60%"><b>Country</b></th>
+<th style="text-align: right;"><b>Total Reports</b></th>
+</tr><tr><td width="60%">Afghanistan</td>
+<td style="text-align: right;">         163,120</td>
+</tr><tr><td width="60%">Aland Islands</td>
+<td style="text-align: right;">                       15</td>
+</tr><tr><td width="60%">Albania</td>
+<td style="text-align: right;">            17,545</td>
+</tr><tr><td width="60%">Algeria</td>
+<td style="text-align: right;">         700,535</td>
+</tr><tr><td width="60%">American Samoa</td>
+<td style="text-align: right;">                       33</td>
+</tr><tr><td width="60%">Andorra</td>
+<td style="text-align: right;">                       92</td>
+</tr><tr><td width="60%">Angola</td>
+<td style="text-align: right;">            10,163</td>
+</tr><tr><td width="60%">Anguilla</td>
+<td style="text-align: right;">                       40</td>
+</tr><tr><td width="60%">Antarctica</td>
+<td style="text-align: right;">                          1</td>
+</tr><tr><td width="60%">Antigua and Barbuda</td>
+<td style="text-align: right;">                    196</td>
+</tr><tr><td width="60%">Argentina</td>
+<td style="text-align: right;">            57,372</td>
+</tr><tr><td width="60%">Armenia</td>
+<td style="text-align: right;">               4,793</td>
+</tr><tr><td width="60%">Aruba</td>
+<td style="text-align: right;">                    359</td>
+</tr><tr><td width="60%">Australia</td>
+<td style="text-align: right;">            33,645</td>
+</tr><tr><td width="60%">Austria</td>
+<td style="text-align: right;">            10,217</td>
+</tr><tr><td width="60%">Azerbaijan</td>
+<td style="text-align: right;">            11,445</td>
+</tr><tr><td width="60%">Bahamas</td>
+<td style="text-align: right;">                    421</td>
+</tr><tr><td width="60%">Bahrain/Bahrein</td>
+<td style="text-align: right;">            26,093</td>
+</tr><tr><td width="60%">Bangladesh</td>
+<td style="text-align: right;">         556,642</td>
+</tr><tr><td width="60%">Barbados</td>
+<td style="text-align: right;">                    755</td>
+</tr><tr><td width="60%">Belarus</td>
+<td style="text-align: right;">               1,828</td>
+</tr><tr><td width="60%">Belgium</td>
+<td style="text-align: right;">            21,448</td>
+</tr><tr><td width="60%">Belize</td>
+<td style="text-align: right;">               1,907</td>
+</tr><tr><td width="60%">Benin</td>
+<td style="text-align: right;">               3,480</td>
+</tr><tr><td width="60%">Bermuda</td>
+<td style="text-align: right;">                       67</td>
+</tr><tr><td width="60%">Bhutan</td>
+<td style="text-align: right;">               4,597</td>
+</tr><tr><td width="60%">Bolivia</td>
+<td style="text-align: right;">            22,597</td>
+</tr><tr><td width="60%">Bosnia and Herzegovina</td>
+<td style="text-align: right;">            15,675</td>
+</tr><tr><td width="60%">Botswana</td>
+<td style="text-align: right;">               1,582</td>
+</tr><tr><td width="60%">Brazil</td>
+<td style="text-align: right;">         398,069</td>
+</tr><tr><td width="60%">British Indian Ocean Territory</td>
+<td style="text-align: right;">                          7</td>
+</tr><tr><td width="60%">British Virgin Islands</td>
+<td style="text-align: right;">                       60</td>
+</tr><tr><td width="60%">Brunei</td>
+<td style="text-align: right;">               2,070</td>
+</tr><tr><td width="60%">Bulgaria</td>
+<td style="text-align: right;">            16,892</td>
+</tr><tr><td width="60%">Burkina Faso</td>
+<td style="text-align: right;">               3,266</td>
+</tr><tr><td width="60%">Burma/Myanmar</td>
+<td style="text-align: right;">         233,681</td>
+</tr><tr><td width="60%">Burundi</td>
+<td style="text-align: right;">                    582</td>
+</tr><tr><td width="60%">Cambodia</td>
+<td style="text-align: right;">            91,458</td>
+</tr><tr><td width="60%">Cameroon</td>
+<td style="text-align: right;">               5,906</td>
+</tr><tr><td width="60%">Canada</td>
+<td style="text-align: right;">            36,908</td>
+</tr><tr><td width="60%">Cape Verde Islands</td>
+<td style="text-align: right;">               2,481</td>
+</tr><tr><td width="60%">Caribbean Netherlands</td>
+<td style="text-align: right;">                       42</td>
+</tr><tr><td width="60%">Cayman Islands</td>
+<td style="text-align: right;">                    117</td>
+</tr><tr><td width="60%">Central African Republic</td>
+<td style="text-align: right;">                    221</td>
+</tr><tr><td width="60%">Chad</td>
+<td style="text-align: right;">                    340</td>
+</tr><tr><td width="60%">Chile</td>
+<td style="text-align: right;">            28,641</td>
+</tr><tr><td width="60%">Christmas Island</td>
+<td style="text-align: right;">                          1</td>
+</tr><tr><td width="60%">Colombia</td>
+<td style="text-align: right;">         264,582</td>
+</tr><tr><td width="60%">Comoros</td>
+<td style="text-align: right;">                    585</td>
+</tr><tr><td width="60%">Congo</td>
+<td style="text-align: right;">                    859</td>
+</tr><tr><td width="60%">Congo, The Democratic Republic of the</td>
+<td style="text-align: right;">               3,856</td>
+</tr><tr><td width="60%">Cook Islands</td>
+<td style="text-align: right;">                          9</td>
+</tr><tr><td width="60%">Costa Rica</td>
+<td style="text-align: right;">            12,764</td>
+</tr><tr><td width="60%">Cote d'Ivoire (Ivory Coast)</td>
+<td style="text-align: right;">            18,916</td>
+</tr><tr><td width="60%">Croatia</td>
+<td style="text-align: right;">            13,068</td>
+</tr><tr><td width="60%">Cuba</td>
+<td style="text-align: right;">               4,412</td>
+</tr><tr><td width="60%">Curacao</td>
+<td style="text-align: right;">                    388</td>
+</tr><tr><td width="60%">Cyprus</td>
+<td style="text-align: right;">               2,502</td>
+</tr><tr><td width="60%">Czech Republic</td>
+<td style="text-align: right;">            14,448</td>
+</tr><tr><td width="60%">Denmark</td>
+<td style="text-align: right;">               6,148</td>
+</tr><tr><td width="60%">Djibouti</td>
+<td style="text-align: right;">               4,045</td>
+</tr><tr><td width="60%">Dominica</td>
+<td style="text-align: right;">                    108</td>
+</tr><tr><td width="60%">Dominican Republic</td>
+<td style="text-align: right;">            32,325</td>
+</tr><tr><td width="60%">Ecuador</td>
+<td style="text-align: right;">            98,669</td>
+</tr><tr><td width="60%">Egypt</td>
+<td style="text-align: right;">         276,596</td>
+</tr><tr><td width="60%">El Salvador</td>
+<td style="text-align: right;">            25,015</td>
+</tr><tr><td width="60%">Equatorial Guinea</td>
+<td style="text-align: right;">                    157</td>
+</tr><tr><td width="60%">Eretria</td>
+<td style="text-align: right;">                       62</td>
+</tr><tr><td width="60%">Estonia</td>
+<td style="text-align: right;">               1,951</td>
+</tr><tr><td width="60%">Ethiopia</td>
+<td style="text-align: right;">            15,054</td>
+</tr><tr><td width="60%">Falkland Islands</td>
+<td style="text-align: right;">                          1</td>
+</tr><tr><td width="60%">Faroe Islands</td>
+<td style="text-align: right;">                       58</td>
+</tr><tr><td width="60%">Federated States of Micronesia</td>
+<td style="text-align: right;">                       68</td>
+</tr><tr><td width="60%">Fiji</td>
+<td style="text-align: right;">               3,560</td>
+</tr><tr><td width="60%">Finland</td>
+<td style="text-align: right;">               4,850</td>
+</tr><tr><td width="60%">France</td>
+<td style="text-align: right;">            71,422</td>
+</tr><tr><td width="60%">French Guiana</td>
+<td style="text-align: right;">                    555</td>
+</tr><tr><td width="60%">French Polynesia</td>
+<td style="text-align: right;">                    320</td>
+</tr><tr><td width="60%">Gabon</td>
+<td style="text-align: right;">               1,201</td>
+</tr><tr><td width="60%">Gambia, The</td>
+<td style="text-align: right;">                    276</td>
+</tr><tr><td width="60%">Georgia</td>
+<td style="text-align: right;">               6,157</td>
+</tr></tbody></table>
+
+</div>
+	</div>
+</div>
+
+
+		</div>
+	
+		
+		
+		
+		<div class="colctrcol col-md-4 col-sm-6">
+			
+
+
+
+
+    
+    
+    <!--
+
+  Table Component component.
+
+  This is a table component created for NCMEC Site
+
+-->
+
+
+    
+
+
+<div class="row" data-example-id="bordered-table">
+	<div data-attr-table="dataTable">
+		<div>
+<table width="100%" cellspacing="0" cellpadding="1" border="1">
+<tbody><tr><th style="text-align: left;" width="60%"><b>Country</b></th>
+<th style="text-align: right;"><b>Total Reports</b></th>
+</tr><tr><td height="20" width="87">Germany</td>
+<td style="text-align: right;">            87,895</td>
+</tr><tr><td height="20">Ghana</td>
+<td style="text-align: right;">            12,707</td>
+</tr><tr><td height="20">Gibraltar</td>
+<td style="text-align: right;">                       49</td>
+</tr><tr><td height="20">Greece</td>
+<td style="text-align: right;">            18,911</td>
+</tr><tr><td height="20">Greenland</td>
+<td style="text-align: right;">                       84</td>
+</tr><tr><td height="20">Grenada</td>
+<td style="text-align: right;">                    347</td>
+</tr><tr><td height="20">Guadeloupe</td>
+<td style="text-align: right;">               1,556</td>
+</tr><tr><td height="20">Guam</td>
+<td style="text-align: right;">                    250</td>
+</tr><tr><td height="20">Guatemala</td>
+<td style="text-align: right;">            72,598</td>
+</tr><tr><td height="20">Guernsey</td>
+<td style="text-align: right;">                       29</td>
+</tr><tr><td height="20">Guinea</td>
+<td style="text-align: right;">               3,438</td>
+</tr><tr><td height="20">Guinea-Bissau</td>
+<td style="text-align: right;">                    236</td>
+</tr><tr><td height="20">Guyana</td>
+<td style="text-align: right;">               2,063</td>
+</tr><tr><td height="20">Haiti</td>
+<td style="text-align: right;">               3,437</td>
+</tr><tr><td height="20">Honduras</td>
+<td style="text-align: right;">            31,996</td>
+</tr><tr><td height="20">Hong Kong</td>
+<td style="text-align: right;">               7,114</td>
+</tr><tr><td height="20">Hungary</td>
+<td style="text-align: right;">            57,500</td>
+</tr><tr><td height="20">Iceland</td>
+<td style="text-align: right;">                    550</td>
+</tr><tr><td height="20">India</td>
+<td style="text-align: right;">     1,987,430</td>
+</tr><tr><td height="20">Indonesia</td>
+<td style="text-align: right;">         840,221</td>
+</tr><tr><td height="20">Iran</td>
+<td style="text-align: right;">            60,580</td>
+</tr><tr><td height="20">Iraq</td>
+<td style="text-align: right;">     1,026,809</td>
+</tr><tr><td height="20">Ireland</td>
+<td style="text-align: right;">               6,653</td>
+</tr><tr><td height="20">Isle of Man</td>
+<td style="text-align: right;">                       56</td>
+</tr><tr><td height="20">Israel</td>
+<td style="text-align: right;">            28,691</td>
+</tr><tr><td height="20">Italy</td>
+<td style="text-align: right;">            57,113</td>
+</tr><tr><td height="20">Jamaica</td>
+<td style="text-align: right;">               2,567</td>
+</tr><tr><td height="20">Japan</td>
+<td style="text-align: right;">            26,333</td>
+</tr><tr><td height="20">Jersey</td>
+<td style="text-align: right;">                    388</td>
+</tr><tr><td height="20">Jordan</td>
+<td style="text-align: right;">         123,537</td>
+</tr><tr><td height="20">Kazakhstan</td>
+<td style="text-align: right;">            10,680</td>
+</tr><tr><td height="20">Kenya</td>
+<td style="text-align: right;">            12,788</td>
+</tr><tr><td height="20">Kiribati</td>
+<td style="text-align: right;">                    136</td>
+</tr><tr><td height="20">Kosovo</td>
+<td style="text-align: right;">                    694</td>
+</tr><tr><td height="20">Kuwait</td>
+<td style="text-align: right;">            63,492</td>
+</tr><tr><td height="20">Kyrgyzstan</td>
+<td style="text-align: right;">               6,280</td>
+</tr><tr><td height="20">Lao People's Democratic Republic</td>
+<td style="text-align: right;">            23,599</td>
+</tr><tr><td height="20">Latvia</td>
+<td style="text-align: right;">               1,347</td>
+</tr><tr><td height="20">Lebanon</td>
+<td style="text-align: right;">            28,136</td>
+</tr><tr><td height="20">Lesotho</td>
+<td style="text-align: right;">                    878</td>
+</tr><tr><td height="20">Liberia</td>
+<td style="text-align: right;">                    880</td>
+</tr><tr><td height="20">Libya</td>
+<td style="text-align: right;">         150,848</td>
+</tr><tr><td height="20">Liechtenstein</td>
+<td style="text-align: right;">                       16</td>
+</tr><tr><td height="20">Lithuania</td>
+<td style="text-align: right;">            11,857</td>
+</tr><tr><td height="20">Luxembourg</td>
+<td style="text-align: right;">               1,506</td>
+</tr><tr><td height="20">Macao</td>
+<td style="text-align: right;">                    959</td>
+</tr><tr><td height="20">Macedonia</td>
+<td style="text-align: right;">               8,092</td>
+</tr><tr><td height="20">Madagascar</td>
+<td style="text-align: right;">               5,642</td>
+</tr><tr><td height="20">Malawi</td>
+<td style="text-align: right;">                    448</td>
+</tr><tr><td height="20">Malaysia</td>
+<td style="text-align: right;">         183,407</td>
+</tr><tr><td height="20">Maldives</td>
+<td style="text-align: right;">               4,865</td>
+</tr><tr><td height="20">Mali</td>
+<td style="text-align: right;">               2,258</td>
+</tr><tr><td height="20">Malta</td>
+<td style="text-align: right;">               1,978</td>
+</tr><tr><td height="20">Marshall Islands</td>
+<td style="text-align: right;">                       34</td>
+</tr><tr><td height="20">Martinique</td>
+<td style="text-align: right;">                    611</td>
+</tr><tr><td height="20">Mauritania</td>
+<td style="text-align: right;">               7,739</td>
+</tr><tr><td height="20">Mauritius</td>
+<td style="text-align: right;">               4,153</td>
+</tr><tr><td height="20">Mayotte</td>
+<td style="text-align: right;">                    460</td>
+</tr><tr><td height="20">Mexico</td>
+<td style="text-align: right;">         827,988</td>
+</tr><tr><td height="20">Moldova</td>
+<td style="text-align: right;">            10,516</td>
+</tr><tr><td height="20">Monaco</td>
+<td style="text-align: right;">                    340</td>
+</tr><tr><td height="20">Mongolia</td>
+<td style="text-align: right;">               4,636</td>
+</tr><tr><td height="20">Montenegro</td>
+<td style="text-align: right;">               3,720</td>
+</tr><tr><td height="20">Montserrat</td>
+<td style="text-align: right;">                          8</td>
+</tr><tr><td height="20">Morocco</td>
+<td style="text-align: right;">         322,889</td>
+</tr><tr><td height="20">Mozambique</td>
+<td style="text-align: right;">               4,688</td>
+</tr><tr><td height="20">Namibia</td>
+<td style="text-align: right;">                    897</td>
+</tr><tr><td height="20">Nauru</td>
+<td style="text-align: right;">                       31</td>
+</tr><tr><td height="20">Nepal</td>
+<td style="text-align: right;">            63,366</td>
+</tr><tr><td height="20">Netherlands</td>
+<td style="text-align: right;">            25,753</td>
+</tr><tr><td height="20">Netherlands Antilles</td>
+<td style="text-align: right;">                          1</td>
+</tr><tr><td height="20">New Caledonia</td>
+<td style="text-align: right;">                    362</td>
+</tr><tr><td height="20">New Zealand</td>
+<td style="text-align: right;">               4,973</td>
+</tr><tr><td height="20">Nicaragua</td>
+<td style="text-align: right;">            19,065</td>
+</tr><tr><td height="20">Niger</td>
+<td style="text-align: right;">                    666</td>
+</tr><tr><td height="20">Nigeria</td>
+<td style="text-align: right;">            39,052</td>
+</tr><tr><td height="20">North Korea</td>
+<td style="text-align: right;">                          1</td>
+</tr><tr><td height="20">Norfolk Island</td>
+<td style="text-align: right;">                          2</td>
+</tr><tr><td height="20">Northern Mariana Islands</td>
+<td style="text-align: right;">                    101</td>
+</tr><tr><td height="20">Norway</td>
+<td style="text-align: right;">               8,031</td>
+</tr><tr><td height="20">Oman</td>
+<td style="text-align: right;">            41,494</td>
+</tr></tbody></table>
+
+</div>
+	</div>
+</div>
+
+
+		</div>
+	
+		
+		
+		
+		<div class="colctrcol col-md-4 col-sm-6">
+			
+
+
+
+
+    
+    
+    <!--
+
+  Table Component component.
+
+  This is a table component created for NCMEC Site
+
+-->
+
+
+    
+
+
+<div class="row" data-example-id="bordered-table">
+	<div data-attr-table="dataTable">
+		<div>
+<table width="100%" cellspacing="0" cellpadding="1" border="1">
+<tbody><tr><th style="text-align: left;" width="60%"><b>Country</b></th>
+<th style="text-align: right;"><b>Total Reports</b></th>
+</tr><tr><td height="20">Pakistan</td>
+<td style="text-align: right;">     1,158,390</td>
+</tr><tr><td height="20">Palau</td>
+<td style="text-align: right;">                       81</td>
+</tr><tr><td height="20">Palestinian Territory</td>
+<td style="text-align: right;">            37,008</td>
+</tr><tr><td height="20">Panama</td>
+<td style="text-align: right;">               7,132</td>
+</tr><tr><td height="20">Papua New Guinea</td>
+<td style="text-align: right;">               1,353</td>
+</tr><tr><td height="20">Paraguay</td>
+<td style="text-align: right;">               6,157</td>
+</tr><tr><td height="20">People's Republic of China</td>
+<td style="text-align: right;">               3,441</td>
+</tr><tr><td height="20">Peru</td>
+<td style="text-align: right;">         160,839</td>
+</tr><tr><td height="20">Philippines</td>
+<td style="text-align: right;">         801,272</td>
+</tr><tr><td height="20">Poland</td>
+<td style="text-align: right;">            77,741</td>
+</tr><tr><td height="20">Portugal</td>
+<td style="text-align: right;">            30,369</td>
+</tr><tr><td height="20">Puerto Rico</td>
+<td style="text-align: right;">               7,849</td>
+</tr><tr><td height="20">Qatar</td>
+<td style="text-align: right;">            53,467</td>
+</tr><tr><td height="20">Reunion</td>
+<td style="text-align: right;">               1,242</td>
+</tr><tr><td height="20">Romania/Rumania</td>
+<td style="text-align: right;">         106,764</td>
+</tr><tr><td height="20">Russian Federation</td>
+<td style="text-align: right;">            72,037</td>
+</tr><tr><td height="20">Rwanda</td>
+<td style="text-align: right;">                    873</td>
+</tr><tr><td height="20">Saint Barthélemy</td>
+<td style="text-align: right;">                          7</td>
+</tr><tr><td height="20">Saint Helena, Ascension and Tristan da Cunha</td>
+<td style="text-align: right;">                          2</td>
+</tr><tr><td height="20">Saint Kitts and Nevis</td>
+<td style="text-align: right;">                       93</td>
+</tr><tr><td height="20">Saint Lucia</td>
+<td style="text-align: right;">                    429</td>
+</tr><tr><td height="20">Saint Martin</td>
+<td style="text-align: right;">                       53</td>
+</tr><tr><td height="20">Saint Pierre and Miquelon</td>
+<td style="text-align: right;">                          5</td>
+</tr><tr><td height="20">Saint Vincent and the Grenadines</td>
+<td style="text-align: right;">                    253</td>
+</tr><tr><td height="20">Samoa</td>
+<td style="text-align: right;">                    122</td>
+</tr><tr><td height="20">San Marino</td>
+<td style="text-align: right;">                          7</td>
+</tr><tr><td height="20">Sao Tome and Principe</td>
+<td style="text-align: right;">                    692</td>
+</tr><tr><td height="20">Saudi Arabia</td>
+<td style="text-align: right;">         514,832</td>
+</tr><tr><td height="20">Senegal</td>
+<td style="text-align: right;">               3,590</td>
+</tr><tr><td height="20">Serbia</td>
+<td style="text-align: right;">            32,473</td>
+</tr><tr><td height="20">Seychelles</td>
+<td style="text-align: right;">               1,501</td>
+</tr><tr><td height="20">Sierra Leone</td>
+<td style="text-align: right;">                    728</td>
+</tr><tr><td height="20">Singapore</td>
+<td style="text-align: right;">            18,426</td>
+</tr><tr><td height="20">Sint Maarten</td>
+<td style="text-align: right;">                    107</td>
+</tr><tr><td height="20">Slovakia</td>
+<td style="text-align: right;">               6,769</td>
+</tr><tr><td height="20">Slovenia</td>
+<td style="text-align: right;">               6,890</td>
+</tr><tr><td height="20">Solomon Islands</td>
+<td style="text-align: right;">                    462</td>
+</tr><tr><td height="20">Somalia</td>
+<td style="text-align: right;">            17,245</td>
+</tr><tr><td height="20">South Africa</td>
+<td style="text-align: right;">            38,031</td>
+</tr><tr><td height="20">South Korea</td>
+<td style="text-align: right;">            83,322</td>
+</tr><tr><td height="20">South Sudan</td>
+<td style="text-align: right;">                    633</td>
+</tr><tr><td height="20">Spain</td>
+<td style="text-align: right;">            46,836</td>
+</tr><tr><td height="20">Sri Lanka</td>
+<td style="text-align: right;">            73,202</td>
+</tr><tr><td height="20">Sudan</td>
+<td style="text-align: right;">            15,884</td>
+</tr><tr><td height="20">Surinam</td>
+<td style="text-align: right;">               3,366</td>
+</tr><tr><td height="20">Svalbard</td>
+<td style="text-align: right;">                          1</td>
+</tr><tr><td height="20">Swaziland</td>
+<td style="text-align: right;">                    259</td>
+</tr><tr><td height="20">Sweden</td>
+<td style="text-align: right;">            16,404</td>
+</tr><tr><td height="20">Switzerland</td>
+<td style="text-align: right;">               8,567</td>
+</tr><tr><td height="20">Syria</td>
+<td style="text-align: right;">            31,698</td>
+</tr><tr><td height="20">Taiwan</td>
+<td style="text-align: right;">            33,621</td>
+</tr><tr><td height="20">Tajikistan</td>
+<td style="text-align: right;">               5,065</td>
+</tr><tr><td height="20">Tanzania</td>
+<td style="text-align: right;">               6,785</td>
+</tr><tr><td height="20">Thailand</td>
+<td style="text-align: right;">         355,396</td>
+</tr><tr><td height="20">Timor-Leste</td>
+<td style="text-align: right;">               1,309</td>
+</tr><tr><td height="20">Togo</td>
+<td style="text-align: right;">                    803</td>
+</tr><tr><td height="20">Tonga</td>
+<td style="text-align: right;">                       37</td>
+</tr><tr><td height="20">Trinidad and Tobago</td>
+<td style="text-align: right;">               3,537</td>
+</tr><tr><td height="20">Tunisia</td>
+<td style="text-align: right;">            65,917</td>
+</tr><tr><td height="20">Turkey</td>
+<td style="text-align: right;">         222,881</td>
+</tr><tr><td height="20">Turkmenistan</td>
+<td style="text-align: right;">                    106</td>
+</tr><tr><td height="20">Turks and Caicos Islands</td>
+<td style="text-align: right;">                    115</td>
+</tr><tr><td height="20">Tuvalu</td>
+<td style="text-align: right;">                          4</td>
+</tr><tr><td height="20">Uganda</td>
+<td style="text-align: right;">               4,976</td>
+</tr><tr><td height="20">Ukraine</td>
+<td style="text-align: right;">            24,460</td>
+</tr><tr><td height="20">United Arab Emirates</td>
+<td style="text-align: right;">         330,268</td>
+</tr><tr><td height="20">United Kingdom</td>
+<td style="text-align: right;">            74,330</td>
+</tr><tr><td height="20">United States</td>
+<td style="text-align: right;">         521,658</td>
+</tr><tr><td height="20">Uruguay</td>
+<td style="text-align: right;">               5,187</td>
+</tr><tr><td height="20">US Virgin Islands</td>
+<td style="text-align: right;">                    131</td>
+</tr><tr><td height="20">Uzbekistan</td>
+<td style="text-align: right;">               4,760</td>
+</tr><tr><td height="20">Vanuatu</td>
+<td style="text-align: right;">                    478</td>
+</tr><tr><td height="20">Venezuela</td>
+<td style="text-align: right;">            37,802</td>
+</tr><tr><td height="20">Vietnam</td>
+<td style="text-align: right;">         379,554</td>
+</tr><tr><td height="20">Wallis and Futuna</td>
+<td style="text-align: right;">                          4</td>
+</tr><tr><td height="20">Western Sahara</td>
+<td style="text-align: right;">                          7</td>
+</tr><tr><td height="20">Yemen Arab Republic</td>
+<td style="text-align: right;">            41,984</td>
+</tr><tr><td height="20">Zambia</td>
+<td style="text-align: right;">               2,841</td>
+</tr><tr><td height="20">Zimbabwe</td>
+<td style="text-align: right;">                    391</td>
+</tr><tr><td height="20" width="177">No Country Listed*</td>
+<td style="text-align: right;">1,668,157</td>
+</tr></tbody></table>
+
+</div>
+	</div>
+</div>
+
+
+		</div>
+	
+</div>
+
+
+
+
+
+
+
+
+    
+    
+    <!--
+
+  Table Component component.
+
+  This is a table component created for NCMEC Site
+
+-->
+
+
+    
+
+
+<div class="row" data-example-id="bordered-table">
+	<div data-attr-table="dataTable">
+		<div>
+<table width="100%" cellspacing="0" cellpadding="1" border="1">
+<tbody><tr><th width="60%" style="text-align: left;"><b>Country</b></th>
+<th style="text-align: right;"><b>Total Reports</b></th>
+</tr><tr><td height="20"><b>TOTAL</b></td>
+<td style="text-align: right;"><b>16,987,361</b></td>
+</tr></tbody></table>
+
+</div>
+	</div>
+</div>
+
+    
+    
+    
+
+    
+
+
+
+
+
+<div class="nmec2-text2" style="border-radius:; background-color:#ffffff;
+     opacity:;
+     padding:12px 0px 60px 20px;
+     margin:0px 0px 0px 0px">
+    <p>*Reasons include no IP address included in the report, proxy IPs, etc.</p>
+
+</div>
+
+    
+
+
+
+
+               </div>
+            </div>
+         </div>
+      
+</div>
+
+
+    
+    
+    
+
+   
+<div class="panel-group row" id="accordioncomp" role="tablist" aria-multiselectable="true">
+      
+         <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="2019 Reports by Electronic Service Providers (ESP)202007021905">
+               <h4 class="panel-title">
+                  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2019ReportsbyElectronicServiceProvidersESP202007021905" class="collapsed" aria-expanded="false" aria-controls="accordionModel2019ReportsbyElectronicServiceProvidersESP202007021905">
+                  <i class="more-less fa fa-plus-circle"></i>
+                  2019 Reports by Electronic Service Providers (ESP)
+                  </a>
+               </h4>
+            </div>
+            <div id="collapse2019ReportsbyElectronicServiceProvidersESP202007021905" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2019ReportsbyElectronicServiceProvidersESP202007021905">
+               <div class="panel-body">
+                  
+
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+
+<div class="row ncmec2-container" style="z-index:auto; border-top-left-radius:0px; border-top-right-radius:0px;border-bottom-right-radius:0px; 
+     border-bottom-left-radius:0px; background-color:#ffffff;
+     opacity:; padding:0px 0px 0px 0px;
+     margin:0px 0px 0px 0px">
+
+    
+
+     <div class="col-sm-12 col-lg-10 col-lg-offset-1 cq-Editable-dom">
+    	
+
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+<div class="nmec2-text2" style="border-radius:; background-color:#ffffff;
+     opacity:;
+     padding:0px 0px 24px 0px;
+     margin:0px 0px 0px 0px">
+    <p><span class="ncmec2-p3">U.S.-based ESPs report instances of apparent child pornography that they become aware of on their systems to NCMEC’s CyberTipline.  To date, over 1,400 companies are registered to make reports to NCMEC’s CyberTipline, and in 2019 16.8 million of the 16.9 million total reports were from ESPs. You can find a breakdown of those reports <a title="/content/dam/missingkids/gethelp/2019-reports-by-esp.pdf" href="/content/dam/missingkids/gethelp/2019-reports-by-esp.pdf">here</a> and below.</span></p>
+
+</div>
+
+    
+
+
+
+    
+    
+    <!--
+
+  Table Component component.
+
+  This is a table component created for NCMEC Site
+
+-->
+
+
+    
+
+
+<div class="row" data-example-id="bordered-table">
+	<div data-attr-table="dataTable">
+		<div>
+<table border="0" cellpadding="0" cellspacing="0" width="560">
+<tbody><tr><th valign="middle" style="text-align: left;"><b>ESP</b></th>
+<th valign="middle" style="text-align: right;"><b>Number of Reports</b> </th>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">4chan </td>
+<td valign="middle" style="text-align: right;">1,380</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">4shared</td>
+<td valign="middle" style="text-align: right;">117</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Absolute Software Corporation</td>
+<td valign="middle" style="text-align: right;">3</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Adobe Systems Incorporated</td>
+<td valign="middle" style="text-align: right;">825</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Afilias USA</td>
+<td valign="middle" style="text-align: right;">171</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Airbnb, Inc.</td>
+<td valign="middle" style="text-align: right;">59</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Amazon</td>
+<td valign="middle" style="text-align: right;">8</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Amino Apps</td>
+<td valign="middle" style="text-align: right;">383</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Apple Inc</td>
+<td valign="middle" style="text-align: right;">205</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Ask.fm</td>
+<td valign="middle" style="text-align: right;">103</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Asurion Corporation</td>
+<td valign="middle" style="text-align: right;">1</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">AT&amp;T WorldNet Service</td>
+<td valign="middle" style="text-align: right;">2</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Automattic*</td>
+<td valign="middle" style="text-align: right;">10,443</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Bark Technologies Inc</td>
+<td valign="middle" style="text-align: right;">316</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Bitly</td>
+<td valign="middle" style="text-align: right;">3</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Box</td>
+<td valign="middle" style="text-align: right;">53</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Cafepress</td>
+<td valign="middle" style="text-align: right;">1</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Care.com</td>
+<td valign="middle" style="text-align: right;">7</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Chatango LLC</td>
+<td valign="middle" style="text-align: right;">6</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Chatrandom</td>
+<td valign="middle" style="text-align: right;">218</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Cloudflare, Inc.</td>
+<td valign="middle" style="text-align: right;">1,173</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Cloudmark, Inc.</td>
+<td valign="middle" style="text-align: right;">1</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Club Domains, LLC</td>
+<td valign="middle" style="text-align: right;">1</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Cogent Communications</td>
+<td valign="middle" style="text-align: right;">2</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Comcast Cable Communications, LLC</td>
+<td valign="middle" style="text-align: right;">27</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Craigslist</td>
+<td valign="middle" style="text-align: right;">11</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Deluxe Corporation/ColoCrossing /HudsonValleyHost</td>
+<td valign="middle" style="text-align: right;">22</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">DeviantART, Inc.</td>
+<td valign="middle" style="text-align: right;">20</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Digital Ocean</td>
+<td valign="middle" style="text-align: right;">16</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Directnic.com</td>
+<td valign="middle" style="text-align: right;">1</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Discord Inc.</td>
+<td valign="middle" style="text-align: right;">19,480</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Dropbox, Inc.</td>
+<td valign="middle" style="text-align: right;">5,113</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">EasyOnlineSolutions/MojoHost/ North Tone/ Hosthead</td>
+<td valign="middle" style="text-align: right;">18</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">eBay Inc.</td>
+<td valign="middle" style="text-align: right;">45</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Ello.co</td>
+<td valign="middle" style="text-align: right;">828</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Endurance International Group*</td>
+<td valign="middle" style="text-align: right;">96</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Enom</td>
+<td valign="middle" style="text-align: right;">33</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Etsy, Inc.</td>
+<td valign="middle" style="text-align: right;">3</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Evasyst, Inc. (dba Kast)</td>
+<td valign="middle" style="text-align: right;">1</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Facebook*</td>
+<td valign="middle" style="text-align: right;">15,884,511</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">FreeDNS.Afraid.org</td>
+<td valign="middle" style="text-align: right;">1</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Gab AI Inc.</td>
+<td valign="middle" style="text-align: right;">5</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Gaggle.Net, Inc.</td>
+<td valign="middle" style="text-align: right;">2,222</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Giphy, Inc. </td>
+<td valign="middle" style="text-align: right;">7</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">GitHub</td>
+<td valign="middle" style="text-align: right;">2</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">GoDaddy.com/Wild West Domains</td>
+<td valign="middle" style="text-align: right;">25</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">GoGuardian</td>
+<td valign="middle" style="text-align: right;">27</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Google*</td>
+<td valign="middle" style="text-align: right;">449,283</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Grindr</td>
+<td valign="middle" style="text-align: right;">13</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Gumroad</td>
+<td valign="middle" style="text-align: right;">1</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Hacker Factor</td>
+<td valign="middle" style="text-align: right;">608</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Hewlett Packard Enterprise</td>
+<td valign="middle" style="text-align: right;">1</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Hosting Services Inc/Midphase/WestHost/Autica/VPS</td>
+<td valign="middle" style="text-align: right;">46</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">HostMantis</td>
+<td valign="middle" style="text-align: right;">1</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">IAC / excite / myway / zwinky / mindspark</td>
+<td valign="middle" style="text-align: right;">5</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Imagebam/ Flixya Entertainment/ videobam</td>
+<td valign="middle" style="text-align: right;">4,256</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Imgur, LLC</td>
+<td valign="middle" style="text-align: right;">73,929</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">IMVU, Inc.</td>
+<td valign="middle" style="text-align: right;">31</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">INHOPE</td>
+<td valign="middle" style="text-align: right;">74,165</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Internet Archive</td>
+<td valign="middle" style="text-align: right;">88</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">JNJ Mobile, Inc. (d/b/a MocoSpace)</td>
+<td valign="middle" style="text-align: right;">50</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">KnownHost/ PrivateSystems Networks</td>
+<td valign="middle" style="text-align: right;">1</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">LegitScript, LLC</td>
+<td valign="middle" style="text-align: right;">3</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">LEGO System A/S</td>
+<td valign="middle" style="text-align: right;">61</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Letgo/Ambatana</td>
+<td valign="middle" style="text-align: right;">28</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Linden Lab/ SecondLife</td>
+<td valign="middle" style="text-align: right;">36</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">LinkedIn Corporation</td>
+<td valign="middle" style="text-align: right;">88</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Linode LLC</td>
+<td valign="middle" style="text-align: right;">14</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">LiveMe</td>
+<td valign="middle" style="text-align: right;">2</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">LookingGlass Cyber Solutions, Inc.</td>
+<td valign="middle" style="text-align: right;">2</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Marinus Analytics LLC / Traffic Jam</td>
+<td valign="middle" style="text-align: right;">5</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Match Group, LLC*</td>
+<td valign="middle" style="text-align: right;">810</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">MediaFire</td>
+<td valign="middle" style="text-align: right;">156</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">MediaLab AI*</td>
+<td valign="middle" style="text-align: right;">38</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">The Meet Group*</td>
+<td valign="middle" style="text-align: right;">5,709</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">MeWe</td>
+<td valign="middle" style="text-align: right;">4,318</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Microsoft*</td>
+<td valign="middle" style="text-align: right;">123,839</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">motherless</td>
+<td valign="middle" style="text-align: right;">1,836</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Movie Star Planet</td>
+<td valign="middle" style="text-align: right;">6</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Multi Media, LLC/Zmedianow, LLC/Chaturbate</td>
+<td valign="middle" style="text-align: right;">1,466</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">myrete/whoshere</td>
+<td valign="middle" style="text-align: right;">7</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Name.com</td>
+<td valign="middle" style="text-align: right;">8</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">NameCheap</td>
+<td valign="middle" style="text-align: right;">28</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Neustar</td>
+<td valign="middle" style="text-align: right;">40</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Nexeon Technologies</td>
+<td valign="middle" style="text-align: right;">1</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Niteflirt/Phrendly.com/Platphorm, LLC</td>
+<td valign="middle" style="text-align: right;">42</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">OfferUp</td>
+<td valign="middle" style="text-align: right;">3</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Omegle.com LLC</td>
+<td valign="middle" style="text-align: right;">3,470</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">OTI Holdings,Inc.*</td>
+<td valign="middle" style="text-align: right;">75</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Patreon</td>
+<td valign="middle" style="text-align: right;">5</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">PayPal Inc.</td>
+<td valign="middle" style="text-align: right;">322</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Photobucket</td>
+<td valign="middle" style="text-align: right;">120</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Pinger, Inc.</td>
+<td valign="middle" style="text-align: right;">5</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Pinterest Inc.</td>
+<td valign="middle" style="text-align: right;">7,360</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Porkbun LLC</td>
+<td valign="middle" style="text-align: right;">3</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">ProBoards</td>
+<td valign="middle" style="text-align: right;">37</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Public Interest Registry</td>
+<td valign="middle" style="text-align: right;">89</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Quora</td>
+<td valign="middle" style="text-align: right;">1</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Rabbit</td>
+<td valign="middle" style="text-align: right;">2,969</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Redbubble Inc.</td>
+<td valign="middle" style="text-align: right;">3</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Reddit, Inc.</td>
+<td valign="middle" style="text-align: right;">724</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Reflected Networks, Inc</td>
+<td valign="middle" style="text-align: right;">234</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Remind</td>
+<td valign="middle" style="text-align: right;">1</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Roblox</td>
+<td valign="middle" style="text-align: right;">675</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Scratch Foundation</td>
+<td valign="middle" style="text-align: right;">2</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">sendvid</td>
+<td valign="middle" style="text-align: right;">2,044</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Shutterfly</td>
+<td valign="middle" style="text-align: right;">5</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">SimilarWorlds</td>
+<td valign="middle" style="text-align: right;">2</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">SmugMug-Flickr</td>
+<td valign="middle" style="text-align: right;">2,545</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Smule</td>
+<td valign="middle" style="text-align: right;">7</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Snapchat</td>
+<td valign="middle" style="text-align: right;">82,030</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Social Minds ApS</td>
+<td valign="middle" style="text-align: right;">14</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Softlayer</td>
+<td valign="middle" style="text-align: right;">1</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Sony Interactive Entertainment</td>
+<td valign="middle" style="text-align: right;">237</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Sprint Nextel</td>
+<td valign="middle" style="text-align: right;">3</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">StackPath, LLC/Highwinds</td>
+<td valign="middle" style="text-align: right;">3</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">StarNow</td>
+<td valign="middle" style="text-align: right;">4</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Stelivo, LLC</td>
+<td valign="middle" style="text-align: right;">2,771</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Streamable (Apricot Mountain Inc.)</td>
+<td valign="middle" style="text-align: right;">1</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Sykes</td>
+<td valign="middle" style="text-align: right;">2</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Synchronoss Technologies, Inc</td>
+<td valign="middle" style="text-align: right;">251</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Taboola</td>
+<td valign="middle" style="text-align: right;">2</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Take-Two Interactive Software, Inc</td>
+<td valign="middle" style="text-align: right;">1</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">The Walt Disney Company</td>
+<td valign="middle" style="text-align: right;">2</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Thorn</td>
+<td valign="middle" style="text-align: right;">12</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Thumbtack</td>
+<td valign="middle" style="text-align: right;">1</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">TikTok</td>
+<td valign="middle" style="text-align: right;">596</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">TrevorSpace</td>
+<td valign="middle" style="text-align: right;">6</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Twitch Interactive, Inc.</td>
+<td valign="middle" style="text-align: right;">541</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Twitter, Inc.</td>
+<td valign="middle" style="text-align: right;">45,726</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Various, Inc./FriendFinder/Tangotime</td>
+<td valign="middle" style="text-align: right;">22</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Verizon Media</td>
+<td valign="middle" style="text-align: right;">13,418</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Verizon Online</td>
+<td valign="middle" style="text-align: right;">136</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Verizon Wireless</td>
+<td valign="middle" style="text-align: right;">4</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Vero Labs, Inc.</td>
+<td valign="middle" style="text-align: right;">75</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Vimeo LLC</td>
+<td valign="middle" style="text-align: right;">306</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Visual Supply Company (VSCO)</td>
+<td valign="middle" style="text-align: right;">4</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Vokal (First Media)</td>
+<td valign="middle" style="text-align: right;">116</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Web.com/Network Solutions/Register/NameBargain</td>
+<td valign="middle" style="text-align: right;">1</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Weebly, Inc.</td>
+<td valign="middle" style="text-align: right;">12</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">West Interactive Services Corporation</td>
+<td valign="middle" style="text-align: right;">140</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Wickr Inc.</td>
+<td valign="middle" style="text-align: right;">1</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Wikimedia Foundation Inc.</td>
+<td valign="middle" style="text-align: right;">13</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Wistia Inc.</td>
+<td valign="middle" style="text-align: right;">4</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Younow</td>
+<td valign="middle" style="text-align: right;">459</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Yubo</td>
+<td valign="middle" style="text-align: right;">3</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Zendesk Inc.</td>
+<td valign="middle" style="text-align: right;">2</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;">Zoom Video Communications, Inc</td>
+<td valign="middle" style="text-align: right;">57</td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;"> </td>
+<td valign="middle" style="text-align: right;"> </td>
+</tr><tr><td valign="middle" headers="ESP" style="text-align: left;"><b>Totals: </b></td>
+<td valign="middle" style="text-align: right;"><b>16,836,694</b></td>
+</tr></tbody></table>
+
+</div>
+	</div>
+</div>
+
+    
+    
+    
+
+    
+
+
+<div class="row" data-example-id="bordered-table">
+	<div data-attr-table="dataTable">
+    	
+	</div>
+</div>
+
+
+     </div>
+
+
+</div>
+
+
+
+
+
+               </div>
+            </div>
+         </div>
+      
+</div>
+
+
+
+     </div>
+
+
+</div>
+
+
+
+  
+
+
+    
+
+
+
+
+
+
+<div>
+    <a class="anchortag" id="more"></a>
+</div>
+
+
+    
+
+
+
+
+
+
+<div class="row ncmec2-container" style="z-index:auto; border-top-left-radius:0px; border-top-right-radius:0px;border-bottom-right-radius:0px; 
+     border-bottom-left-radius:0px; background-color:rgba(255,255,255,1);
+     opacity:; padding:72px 0px 100px 0px;
+     margin:0px 0px 0px 0px">
+
+    
+
+     <div class="col-sm-12 col-lg-10 col-lg-offset-1 cq-Editable-dom">
+    	
+
+
+
+
+    
+    
+    
+<div class="cmp-title">
+    <h2 class="cmp-title2" align="left" style="color:"><div>More</div></h2>
+</div>
+
+    
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+<div class="nmec2-text2" style="border-radius:; background-color:rgba(255,255,255,1);
+     opacity:;
+     padding:0px 0px 0px 0px;
+     margin:0px 0px 0px 0px">
+    <p><span class="ncmec2-p2">Learn more about online exploitation and safety.</span><br />
+</p>
+
+</div>
+
+    
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+
+
+
+
+<div class="row ncmec2-colctrlcomp" style="border-radius:; background-color:;opacity:;">
+	
+		
+		
+		
+		<div class="colctrcol col-md-4 col-sm-4">
+			
+
+
+
+
+    
+    
+    
+<div data-cmp-is="image" data-cmp-src="/content/ncmec/en/gethelpnow/cybertipline/jcr%3acontent/mainpar/container_133256226/null/colctrlcomp/par_0/image_165089367.img.png" data-asset="/content/dam/missingkids/pdfs/pdf-thumbs/Online Enticement Pre-Travel.png" class="cmp-image">
+    <a class="cmp-image__link" href="/content/dam/missingkids/pdfs/ncmec-analysis/Online%20Enticement%20Pre-Travel.pdf" data-cmp-hook-image="link">
+         
+            <img src="/content/ncmec/en/gethelpnow/cybertipline/_jcr_content/mainpar/container_133256226/null/colctrlcomp/par_0/image_165089367.img.png" class="cmp-image__image img-thumbnail" data-cmp-hook-image="image" width="100%" alt/>
+        
+    </a>
+    
+</div>
+
+    
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+<div class="nmec2-text2" style="border-radius:; background-color:rgba(255,255,255,1);
+     opacity:;
+     padding:0px 15px 0px 15px;
+     margin:20px 0px 40px 0px">
+    <p><b><span class="ncmec2-p3-book"><a href="/content/dam/missingkids/pdfs/ncmec-analysis/Online%20Enticement%20Pre-Travel.pdf"><span class="ncmec2-p3">The Online Enticement of Children: An In-Depth Analysis of CyberTipline Reports</span></a></span></b></p>
+
+</div>
+
+    
+
+
+
+
+		</div>
+	
+		
+		
+		
+		<div class="colctrcol col-md-4 col-sm-4">
+			
+
+
+
+
+    
+    
+    
+<div data-cmp-is="image" data-cmp-src="/content/ncmec/en/gethelpnow/cybertipline/jcr%3acontent/mainpar/container_133256226/null/colctrlcomp/par_1/image_145826880.img.png" data-asset="/content/dam/missingkids/pdfs/pdf-thumbs/Production and Active Trading of CSAM_FullReport_FINAL.png" class="cmp-image">
+    <a class="cmp-image__link" href="/content/dam/missingkids/pdfs/ncmec-analysis/Production%20and%20Active%20Trading%20of%20CSAM_FullReport_FINAL.pdf" data-cmp-hook-image="link">
+         
+            <img src="/content/ncmec/en/gethelpnow/cybertipline/_jcr_content/mainpar/container_133256226/null/colctrlcomp/par_1/image_145826880.img.png" class="cmp-image__image img-thumbnail" data-cmp-hook-image="image" width="100%" alt/>
+        
+    </a>
+    
+</div>
+
+    
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+<div class="nmec2-text2" style="border-radius:; background-color:rgba(255,255,255,1);
+     opacity:;
+     padding:0px 15px 0px 15px;
+     margin:20px 0px 40px 0px">
+    <p><b><a href="/content/dam/missingkids/pdfs/ncmec-analysis/Production%20and%20Active%20Trading%20of%20CSAM_FullReport_FINAL.pdf"><span class="ncmec2-p3">Production and Active Trading of Child Sexual Exploitation Images Depicting Identified Victims</span></a></b></p>
+
+</div>
+
+    
+
+
+
+
+		</div>
+	
+		
+		
+		
+		<div class="colctrcol col-md-4 col-sm-4">
+			
+
+
+
+
+    
+    
+    
+<div data-cmp-is="image" data-cmp-src="/content/ncmec/en/gethelpnow/cybertipline/jcr%3acontent/mainpar/container_133256226/null/colctrlcomp/par_2/image_1006150557.img.png" data-asset="/content/dam/missingkids/pdfs/pdf-thumbs/thumb-Trends-Identified.png" class="cmp-image">
+    <a class="cmp-image__link" href="/content/dam/missingkids/pdfs/ncmec-analysis/sextortionfactsheet.pdf" data-cmp-hook-image="link">
+         
+            <img src="/content/ncmec/en/gethelpnow/cybertipline/_jcr_content/mainpar/container_133256226/null/colctrlcomp/par_2/image_1006150557.img.png" class="cmp-image__image img-thumbnail" data-cmp-hook-image="image" width="100%" alt/>
+        
+    </a>
+    
+</div>
+
+    
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+<div class="nmec2-text2" style="border-radius:; background-color:rgba(255,255,255,1);
+     opacity:;
+     padding:0px 15px 0px 15px;
+     margin:20px 0px 40px 0px">
+    <p><a title="/content/dam/missingkids/pdfs/ncmec-analysis/sextortionfactsheet.pdf" href="/content/dam/missingkids/pdfs/ncmec-analysis/sextortionfactsheet.pdf"><span class="ncmec2-p3"><b>Trends Identified in CyberTipline Sextortion Reports</b></span></a></p>
+
+</div>
+
+    
+
+
+
+
+		</div>
+	
+</div>
+
+
+
+
+
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+
+<div class="row ncmec2-container" style="z-index:auto; border-top-left-radius:0px; border-top-right-radius:0px;border-bottom-right-radius:0px; 
+     border-bottom-left-radius:0px; background-color:#ffffff;
+     opacity:; padding:48px 0px 0px 0px;
+     margin:0px 0px 0px 0px">
+
+    
+
+     <div class="col-sm-12 col-lg-10 col-lg-offset-1 cq-Editable-dom">
+    	
+
+
+
+
+
+     </div>
+
+
+</div>
+
+
+
+
+    
+    
+    
+<div class="row video-image-component">
+    <div class="offsetLR-md-1">
+        <div class="hero-youtube embed-responsive embed-responsive-16by9">
+            <iframe src="https://www.youtube.com/embed/RoilZ7AHb1U?rel=0&mute=1" alt="NCMEC&#39;s CyberTipline" width="100%" height="350px" allowfullscreen=""></iframe>
+        </div>
+        <p class="text-center">
+            How NCMEC is responding to the ever-changing threats to children online.
+        </p>
+    </div>
+</div>
+
+    
+    
+    
+
+    
+
+
+
+
+
+
+<div class="row ncmec2-container" style="z-index:auto; border-top-left-radius:0px; border-top-right-radius:0px;border-bottom-right-radius:0px; 
+     border-bottom-left-radius:0px; background-color:#ffffff;
+     opacity:; padding:48px 0px 0px 0px;
+     margin:0px 0px 0px 0px">
+
+    
+
+     <div class="col-sm-12 col-lg-10 col-lg-offset-1 cq-Editable-dom">
+    	
+
+
+
+
+
+     </div>
+
+
+</div>
+
+
+
+
+    
+    
+    
+
+   
+<div class="panel-group row" id="accordioncomp" role="tablist" aria-multiselectable="true">
+      
+         <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="How to Promote the CyberTipline on Your Website202007021905">
+               <h4 class="panel-title">
+                  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseHowtoPromotetheCyberTiplineonYourWebsite202007021905" class="collapsed" aria-expanded="false" aria-controls="accordionModelHowtoPromotetheCyberTiplineonYourWebsite202007021905">
+                  <i class="more-less fa fa-plus-circle"></i>
+                  How to Promote the CyberTipline on Your Website
+                  </a>
+               </h4>
+            </div>
+            <div id="collapseHowtoPromotetheCyberTiplineonYourWebsite202007021905" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingHowtoPromotetheCyberTiplineonYourWebsite202007021905">
+               <div class="panel-body">
+                  
+
+
+
+
+    
+    
+    
+
+<div class="alert-text-image-component">
+   <picture>
+      <!-- tablet landscape -->
+      <source media="(min-width:769px) and (max-width: 1024px) and (orientation: landscape)" srcset="/content/dam/missingkids/gethelp/cybertipline%20banner.JPG.transform/textimage-tablet-landscape/image.JPG"/>
+      <!-- mobile devices -->
+      <source media="(max-width:767px)" srcset="/content/dam/missingkids/gethelp/cybertipline%20banner.JPG.transform/textimage-mobile/image.JPG"/>
+      <!-- tablet portrait -->
+      <source media="(min-width: 768px) and (max-width: 768px) and (orientation: portrait)" srcset="/content/dam/missingkids/gethelp/cybertipline%20banner.JPG.transform/textimage-tablet-portrait/image.JPG"/>
+      <!-- desktop -->
+      <img alt="cybertip logo banner" src="/content/dam/missingkids/gethelp/cybertipline%20banner.JPG.transform/textimage-desktop/image.JPG"/>
+   </picture>
+   <p>The banner is a tool to allow you to conveniently share a link to NCMEC's CyberTipline to create a report. To display this banner on your website:</p>
+<ul>
+<li><a title="/content/ncmec/en/footer/legalinformation" href="/footer/legalinformation">Read the terms of use</a>. Your use of any National Center for Missing &amp; Exploited Children® banner signifies your agreement to these terms of use.</li>
+<li>Enter the code snippet below into your site.</li>
+</ul>
+
+</div>
+
+
+               </div>
+            </div>
+         </div>
+      
+</div>
+
+
+    
+    
+    
+
+   
+<div class="panel-group row" id="accordioncomp" role="tablist" aria-multiselectable="true">
+      
+         <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="Code Snippet202007021905">
+               <h4 class="panel-title">
+                  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseCodeSnippet202007021905" class="collapsed" aria-expanded="false" aria-controls="accordionModelCodeSnippet202007021905">
+                  <i class="more-less fa fa-plus-circle"></i>
+                  Code Snippet
+                  </a>
+               </h4>
+            </div>
+            <div id="collapseCodeSnippet202007021905" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingCodeSnippet202007021905">
+               <div class="panel-body">
+                  
+
+
+
+
+    
+    
+    
+
+    
+
+
+
+
+
+<div class="nmec2-text2" style="border-radius:; background-color:#ffffff;
+     opacity:;
+     padding:0px 0px 0px 0px;
+     margin:0px 0px 0px 0px">
+    <p>   </p>
+<p>                           </p>
+<p>                           &lt;style&gt;</p>
+<p>   @font-face {</p>
+<p>   font-family: 'AvenirLTStd-Black';</p>
+<p>   src: url('http://www.missingkids.org/etc/clientlibs/ncmec/fonts/AvenirLTStd-Webfont/AvenirLTStd-Medium.otf');</p>
+<p>   font-style: normal;</p>
+<p>   font-weight: 500;</p>
+<p>   }</p>
+<p>   .cybertipline-banner{</p>
+<p>   font-family: 'AvenirLTStd-Black';</p>
+<p>   }</p>
+<p>   .cybertipline-banner .form-cover-box {</p>
+<p>   font-family: 'AvenirLTStd-Black';</p>
+<p>   border: 1px solid grey;</p>
+<p>   background-color: white;</p>
+<p>   padding: 16px;</p>
+<p>   border-radius: 10px;</p>
+<p>   width: 100%;</p>
+<p>   margin: 16px 0px;</p>
+<p>   }</p>
+<p>   .cybertipline-banner .form-cover-box label {</p>
+<p>   padding-left: 5px;</p>
+<p>   text-align: right;</p>
+<p>   width: 10%;</p>
+<p>   margin-left: 40px;</p>
+<p>   }</p>
+<p>   .cybertipline-banner .form-cover-box input.texttype {</p>
+<p>   padding: 1px 2px 2px 1px;</p>
+<p>   width: 50%;</p>
+<p>   margin-left: auto;</p>
+<p>   }</p>
+<p>   .cybertipline-banner .form-cover-box input.submittype {</p>
+<p>   display: block;</p>
+<p>   margin: 0 auto;</p>
+<p>   border: 1px solid grey;</p>
+<p>   padding: 5px 16px;</p>
+<p>   }</p>
+<p>   .cybertipline-banner .centre-body-cover {</p>
+<p>   max-width: 300px;</p>
+<p>   }</p>
+<p>   .cybertipline-banner .header-box-cover-withborder h2 {</p>
+<p>   background-color: red;</p>
+<p>   margin-bottom: 0px;</p>
+<p>   padding: 16px;</p>
+<p>   margin-top: 0px;</p>
+<p>   }</p>
+<p>   .cybertipline-banner .heading-centre {</p>
+<p>   margin-right: auto;</p>
+<p>   margin-left: auto;</p>
+<p>   width: 70%;</p>
+<p>   background-color: red;</p>
+<p>   padding: 5px;</p>
+<p>   }</p>
+<p>   .cybertipline-banner .heading-centre:hover {</p>
+<p>   background-color: yellow;</p>
+<p>   }</p>
+<p>   .cybertipline-banner .heading-centre a:hover {</p>
+<p>   text-decoration: none;</p>
+<p>   }</p>
+<p>   .cybertipline-banner .header-box-cover p {</p>
+<p>   margin-top: 0px;</p>
+<p>   text-align: left;</p>
+<p>   font-family: 'AvenirLTStd-Black';</p>
+<p>   }</p>
+<p>   .cybertipline-banner .header-box-cover {</p>
+<p>   width: 100%;</p>
+<p>   }</p>
+<p>   .cybertipline-banner .header-box-cover-withborder {</p>
+<p>   width: 100%;</p>
+<p>   border: 1px solid red;</p>
+<p>   }</p>
+<p>   .cybertipline-banner .header-top1 {</p>
+<p>   border: 1px solid black;</p>
+<p>   padding: 16px;</p>
+<p>   border-top-left-radius: 10px;</p>
+<p>   border-top-right-radius: 10px;</p>
+<p>   margin-bottom: 0px;</p>
+<p>   }</p>
+<p>   .cybertipline-banner .header-top2 {</p>
+<p>   border: 1px solid black;</p>
+<p>   padding: 16px;</p>
+<p>   background-color: black;</p>
+<p>   color: white;</p>
+<p>   border-bottom-left-radius: 10px;</p>
+<p>   border-bottom-right-radius: 10px;</p>
+<p>   margin-top: 0px;</p>
+<p>   }</p>
+<p>   .cybertipline-banner h5.textColorLightBlue {</p>
+<p>   color: #92D6E3;</p>
+<p>   font-size: 16px;</p>
+<p>   margin:15px 0;</p>
+<p>   }</p>
+<p>   .cybertipline-banner a.textColorLightBlue {</p>
+<p>   color: #92D6E3;</p>
+<p>   font-size: 13px;</p>
+<p>   }</p>
+<p>   .cybertipline-banner a.textColorLightBlue:hover {</p>
+<p>   color: #92D6E3;</p>
+<p>   font-size: 13px;</p>
+<p>   text-decoration:underline;</p>
+<p>   }</p>
+<p>   .cybertipline-banner .header-top2 a {</p>
+<p>   display: block;</p>
+<p>   text-align: right;</p>
+<p>   text-decoration: none;</p>
+<p>   }</p>
+<p>   .cybertipline-banner .header-top1 img {</p>
+<p>   width: 100%;</p>
+<p>   }</p>
+<p>   .cybertipline-banner .header-box2 {</p>
+<p>   padding: 16px;</p>
+<p>   }</p>
+<p>   .cybertipline-banner .header-top2 h2 {</p>
+<p>   font-size: 16px;</p>
+<p>   font-family: Futura;</p>
+<p>   }</p>
+<p>   .cybertipline-banner .header-top2 p {</p>
+<p>   font-size: 13px;</p>
+<p>   }</p>
+<p>   .cybertipline-banner .text-align-centre {</p>
+<p>   text-align: centre;</p>
+<p>   }</p>
+<p>&lt;/style&gt;</p>
+<p>&lt;div class=&quot;cybertipline-banner&quot;&gt;</p>
+<p>   &lt;article class=&quot;content-wrapper&quot;&gt;</p>
+<p>      &lt;div class=&quot;centre-body-cover&quot;&gt;</p>
+<p>         &lt;div class=&quot;header-box-cover&quot;&gt;</p>
+<p>            &lt;div class=&quot;header-top1&quot;&gt;</p>
+<p>               &lt;img class=&quot;cybertipline-image&quot; src=&quot;http://www.missingkids.org/etc/clientlibs/ncmec/images/cyberTipline-logo.png&quot; alt=&quot;missing image&quot;&gt;</p>
+<p>            &lt;/div&gt;</p>
+<p>            &lt;div class=&quot;header-top2&quot;&gt;</p>
+<p>               &lt;h5 class=&quot;textColorLightBlue&quot;&gt;Report It&lt;/h5&gt;</p>
+<p>               &lt;p&gt;If you think you have seen a missing child, or suspect a child may be sexually exploited, contact the National Center for Missing &amp; Exploited Children 24-hours a day, 7 days a week.&lt;/p&gt;</p>
+<p>               &lt;h5 class=&quot;textColorLightBlue&quot;&gt;Report Child sexual exploitation&lt;/h5&gt;</p>
+<p>               &lt;p&gt;Use the CyberTipline to report child sexual exploitation&lt;/p&gt;</p>
+<p>               &lt;a class=&quot;textColorLightBlue&quot; href=&quot;https://report.cybertip.org&quot; target=&quot;_blank&quot; alt=&quot;Make a CyberTipline Report&quot;&gt;Make a Cyberlink Report&gt;&gt;&lt;/a&gt;</p>
+<p>            &lt;/div&gt;</p>
+<p>         &lt;/div&gt;</p>
+<p>      &lt;/div&gt;</p>
+<p>   &lt;/article&gt;</p>
+<p>&lt;/div&gt;</p>
+<p>                           </p>
+<p>                           </p>
+<p>                           </p>
+
+</div>
+
+    
+
+
+
+
+               </div>
+            </div>
+         </div>
+      
+</div>
+
+
+
+     </div>
+
+
+</div>
+
+
+
+</div>
+              </div>
+                </div>
+        </div>
+        </div>
+      </article>
+
+    
+
+
+
+   <div><div class="section"></div><div class="iparys_inherited">
+
+
+    
+
+
+
+<footer class="footer-container inner-page">
+         <div class="container center-block">
+                <div class="footer-nav-wrapper col-sm-10 col-md-8 center-block">
+                  <div class="row">
+                  <div class="subscribe-form col-sm-6 col-md-6">
+                    <!-- 
+<sly data-sly-use.subscribe="com.ncmec.core.models.SubscribeNewsletterModel"></sly>
+<div class="js-ncmec-form-container" data-attr="subscribe-newsletter">
+    <form class="form-horizontal js-form-submit" id="subscribe-form" novalidate>
+        <div class="returnMessage error hide"></div>
+        <div class="form-group">
+            <input type="hidden" name="action" value="" />
+            <input type="hidden" name="mailtoAddress" value="" />
+            <input type="hidden" name="LanguageId" value="" />
+            <p class="subscribe-opt-in-text">Get updates, inspiring stories, and ways you can help.</p>
+            <input type="email" name="fromAddress" id="subscribe" class="input-subscribe" placeholder="enter your email address" required>
+            <button class="btn-subscribe" id="js-subscribe">Subscribe</button>
+            <label id="subscribe-error" for="subscribe" class="error hide"></label>
+        </div>
+    </form>
+</div>
+-->
+
+
+<div>
+  <!-- Constant Contact: https://visitor.r20.constantcontact.com/d.jsp?llr=uoo8689ab&amp;p=oi&amp;m=1128366193108&amp;sit=r9hy7yulb&amp;f=3ea1afe2-4951-4edf-9b12-36deb4a943bf -->
+    
+    
+        <a href="http://go.missingkids.org/l/808593/2019-12-18/5n4b" style="background-color: rgb(253, 184, 19); border: 1px solid rgb(91, 91, 91); color: rgb(0, 0, 0); display: inline-block; padding: 8px 10px; text-shadow: none; border-radius: 10px; font-weight: bold;">
+            Sign Up! &#9658;</a>
+    
+  <span style="color: #f1f1f2; font-size=13;"> &nbsp; Get the latest updates from NCMEC</span>
+</div>
+                  </div>  
+                    <div class="footer-links-wrapper clearfix">
+                      <div>
+
+    
+
+
+    
+    
+        <ul class="social-icons">
+            <li><a href="https://www.facebook.com/missingkids/?utm_source=top_nav&utm_medium=button_click">
+                <img srcset="/content/dam/missingkids/icons/Facebookfooter-logo.svg" alt="facebook" type="image/svg+xml" style="height: 28px; width: 20px; "/>
+            </a></li>
+        
+            <li><a href="https://twitter.com/MissingKids/?utm_source=top_nav&utm_medium=button_click">
+                <img srcset="/content/dam/missingkids/icons/Twitterfooter-logo.svg" alt="twitter" type="image/svg+xml" style="height: 28px; width: 20px; "/>
+            </a></li>
+        
+            <li><a href="https://www.youtube.com/missingkids/?utm_source=top_nav&utm_medium=button_click">
+                <img srcset="/content/dam/missingkids/icons/YouTubefooter-logo.svg" alt="youtube" type="image/svg+xml" style="height: 28px; width: 20px; "/>
+            </a></li>
+        
+            <li><a href="https://www.instagram.com/Missingkids/?utm_source=top_nav&utm_medium=button_click">
+                <img srcset="/content/dam/missingkids/icons/Instagramfooter-logo.svg" alt="instagram" type="image/svg+xml" style="height: 28px; width: 20px; "/>
+            </a></li>
+        </ul>
+    
+</div>
+                      <ul class="search-wrapper">
+                        <li>
+                          <div class="search-container">
+                            <form class="search-form clearfix" onsubmit="return innerFootersearchQuery()">
+                              <input id="inner-footer-searchform" type="text" name="search" placeholder="Search" required/>
+                              <button class="search-submit" type="submit"><i class="icon-search"></i></button>
+                            </form>
+                            <a class="search-icon" tabindex="0">
+                              <i class="icon-search"></i>
+                              <i class="icon-close"></i>
+                            </a>
+                          </div>
+                        </li>
+                        <li class="language-selector">
+                            <label class="switch">
+                                <span class="lang">
+                                    <span class="en"><a href="/gethelpnow/cybertipline" aria-label="Language Selector: English">EN</a></span>
+                                  <span class="sp"><a href="http://esp.missingkids.org/gethelpnow/cybertipline" aria-label="Language Selector: Spanish">SP</a></span>
+                                </span>
+                            </label>
+                        </li>
+                      </ul>
+
+                    </div>
+                  </div>
+                  <nav class="footer-nav row">
+                      
+                          <ul class="clearfix">
+                               <li><a href="https://www.missingkids.org/blog" title="Blog">Blog</a></li>
+                          
+                               <li><a href="/footer/media" title="Media">Media</a></li>
+                          
+                               <li><a href="/footer/contactus" title="Contact">Contact</a></li>
+                          
+                               <li><a href="/footer/legalinformation" title="Legal T&amp;C">Legal T&amp;C</a></li>
+                          
+                               <li><a href="http://www.missingkids.org/supportus#donorprivacypolicy" title="Donor Privacy">Donor Privacy</a></li>
+                          
+                               <li><a href="/footer/media/keyfacts" title="Key Facts">Key Facts</a></li>
+                          </ul>
+                      
+                          <ul class="clearfix">
+                               <li><a href="/footer/careers" title="Careers">Careers</a></li>
+                          
+                               <li><a href="/footer/about" title="About Us">About Us</a></li>
+                          
+                               <li><a href="/footer/about/leadership" title="Leadership">Leadership</a></li>
+                          
+                               <li><a href="/footer/about/california" title="California">California</a></li>
+                          
+                               <li><a href="/footer/about/florida" title="Florida">Florida</a></li>
+                          
+                               <li><a href="/footer/about/newyork" title="New York">New York</a></li>
+                          </ul>
+                      
+                          <ul class="clearfix">
+                               <li><a href="/footer/about/texas" title="Texas">Texas</a></li>
+                          </ul>
+                      
+                  </nav>
+                </div>
+                <div class="legal-container col-sm-12 col-md-10 center-block copyright">
+                  <p>Copyright © National Center for Missing &amp; Exploited Children. All rights reserved.</p>
+<p> </p>
+<p>This Web site is funded, in part, through a grant from the Office of Juvenile Justice and Delinquency Prevention, Office of Justice Programs, U.S. Department of Justice. Neither the U.S. Department of Justice nor any of its components operate, control, are responsible for, or necessarily endorse, this Web site (including, without limitation, its content, technical infrastructure, and policies, and any services or tools provided).</p>
+<p> </p>
+<p>3.2.21.P</p>
+
+                </div>
+            </div>
+      </footer>
+	    <!-- error modal -->
+    <div class="modal fade js-error-popup">
+		<div class="modal-dialog">
+			<div class="modal-content text-center">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h4 class="modal-title">Subscription Errors</h4>
+        </div>
+		<div class="modal-body">
+          <div class="error-content" data-attr="error-popup-message">
+          </div>
+		</div>
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+	</div>
+<!-- /.modal -->
+
+	    <!-- Confirmation modal -->
+    <div class="modal fade js-confirmation-popup">
+		<div class="modal-dialog">
+			<div class="modal-content text-center">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h4 class="modal-title">CONFIRMATION</h4>
+        </div>
+		<div class="modal-body">
+          <div>
+              Thank you. Your request has been submitted
+          </div>
+		</div>
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+		</div>
+   </div>
+</div>
+</div>
+    
+
+    <script>
+        var NCMEC = {
+            endpoint: 'https:\/\/api.missingkids.org\/missingkids\/servlet\/JSONDataServlet',
+            domain: 'https:\/\/api.missingkids.org',
+            captcha: 'https:\/\/api.missingkids.org\/missingkids\/servlet\/ImageCaptchaServlet'
+        }
+
+    </script>
+
+<div id="mobilePopupCaptcha" role="dialog" class="modal fade">
+	<div class="modal-dialog">
+		<div class="modal-content">
+		  <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+          </div>
+			<div class="modal-body">
+				<form class="ncmec-form">
+					<legend>Please type the 4 digit code below in the box and click on submit to finalize the application. Click refresh to get a new code.</legend>
+					<div class="form-group clearfix">
+					    <div class="col-xs-4"> </div>
+					    <div class="col-xs-2">
+					        <img src="" style="margin-top:5px"/>
+					    </div>
+					    <div class="col-xs-2">
+                            <button class="refreshButton btn btn-default icon btn-block" type="button">
+                                <span class="glyphicon glyphicon-refresh"></span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="form-group clearfix">
+                        <div class="col-xs-6 center-block">
+                            <input type="text" name="captcha" class="form-control"/>
+                        </div>
+                    </div>
+                    <div class="clearfix">                      
+                        <button type="submit" class="btn btn-lg btn-block btn-default center-block">Submit</button>
+                    </div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+    
+<script type="text/javascript" src="/etc/clientlibs/ncmec/dependencies.min.js"></script>
+
+
+
+
+    
+<script type="text/javascript" src="/etc/clientlibs/ncmec/main.min.js"></script>
+
+
+
+
+    <div>
+    <script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-20333140-1', 'auto');
+  ga('send', 'pageview');
+    </script>
+
+</div>
+</body>
+
+</html>
