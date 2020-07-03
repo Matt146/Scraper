@@ -142,8 +142,8 @@ if __name__ == "__main__":
             backlinks_new = download_data_from_link_list(backlinks_new)
         print("[ * ] Completed download... You may exit with Ctrl+C")
     else:
-        http_proxy = input("Type in the address of your http proxy (ie: socks5://127.0.0.1:9500): ")
-        https_proxy = input("Type in the address of your https proxy (ie: socks5://127.0.0.1:9500): ")
+        http_proxy = input("Type in the address of your http proxy (ie: socks5h://127.0.0.1:9150): ")
+        https_proxy = input("Type in the address of your https proxy (ie: socks5h://127.0.0.1:9150): ")
         the_proxies = {
             'http': http_proxy,
             'https': https_proxy,
