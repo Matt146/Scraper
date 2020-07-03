@@ -107,16 +107,54 @@ def file_writer_daemon():
             print("[Error] {}".format(e))
         time.sleep(3)
 
-
+# Downloads the data and puts it in the data list.
+# Then, returns all the backlinks in the text
+# This uses a proxy
+def proxy_download_data_from_link_list(links, the_proxies):
+    backlinks = []
+    for link in links:
+        if value_in_list(links, link) == False:
+            try:
+                r = requests.get(link, proxies=the_proxies)
+                backlinks_tmp = get_backlinks(r)
+                print("[ + ]" + link)
+                with LOCK:
+                    path = urlparse(r.url).path
+                    data[path] = r.text
+                    for backlink in backlinks_tmp:
+                        backlinks.append(backlink)
+                    clicked_links.append(link)
+            except Exception as e:
+                print("[Error] Unable to reach {}".format(link))
+    return backlinks
 
 if __name__ == "__main__":
     website = input("What is the target website: ")
     search_depth = int(input("Type in the recursion depth for which you want to traverse links: "))
-    LINK_SEARCH_DEPTH = search_depth
-    threading.Thread(target=file_writer_daemon, args=[]).start()
-    resp = requests.get(website)
-    backlinks = get_backlinks(resp)
-    backlinks_new = download_data_from_link_list(backlinks)
-    for x in range(LINK_SEARCH_DEPTH):
-        backlinks_new = download_data_from_link_list(backlinks_new)
-    print("[ * ] Completed download... You may exit with Ctrl+C")
+    proxy_or_no = input("Would you like to use a proxy (y/n): ")
+    if proxy_or_no == "n":
+        LINK_SEARCH_DEPTH = search_depth
+        threading.Thread(target=file_writer_daemon, args=[]).start()
+        resp = requests.get(website)
+        backlinks = get_backlinks(resp)
+        backlinks_new = download_data_from_link_list(backlinks)
+        for x in range(LINK_SEARCH_DEPTH):
+            backlinks_new = download_data_from_link_list(backlinks_new)
+        print("[ * ] Completed download... You may exit with Ctrl+C")
+    else:
+        http_proxy = input("Type in the address of your http proxy (ie: socks5://127.0.0.1:9500): ")
+        https_proxy = input("Type in the address of your https proxy (ie: socks5://127.0.0.1:9500): ")
+        the_proxies = {
+            'http': http_proxy,
+            'https': https_proxy,
+        }
+        LINK_SEARCH_DEPTH = search_depth
+        threading.Thread(target=file_writer_daemon, args=[]).start()
+        r = requests.get("https://ipecho.net/plain", proxies=the_proxies)
+        print("My IP: " + r.text)
+        print(r.headers)
+        resp = requests.get(website, the_proxies)
+        backlinks = get_backlinks(resp)
+        backlinks_new = download_data_from_link_list(backlinks)
+        for x in range(LINK_SEARCH_DEPTH):
+            backlinks_new = download_data_from_link_list(backlinks_new)
