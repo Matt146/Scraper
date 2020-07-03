@@ -14,46 +14,6 @@ import random
 LOCK = threading.Lock()
 LINK_SEARCH_DEPTH = 1
 
-#################################
-# Search and download pages
-#################################
-def elems_join(elems):
-	buff = ""
-	for elem in elems:
-		buff += elem.text
-	return buff
-
-def get_summary(artname):
-    # Format the query
-    artname = artname.split()
-    artname = '_'.join(artname)
-
-    # Send the request
-    r = requests.get('https://en.wikipedia.org/wiki/{}'.format(artname))
-    if r.status_code != 200:
-        print('[Error] Invalid article!')
-        return
-
-    # Parse the request
-    source = r.text
-    soup = BeautifulSoup(source, 'lxml')
-    elems = soup.find_all('p')
-        
-    # Check to see if the search has multiple hits:
-    elems_concat = elems_join(elems)
-    if elems_concat == "{} may refer to:\n".format(artname):
-        print("[Error] Multiple entries to your article. Please narrow down your search!")
-        return
-
-    # Print out the articles
-    articleData = ''
-    for elem in elems:
-        if elem.text != "\n":
-            articleData += elem.text
-            print(elem.text)
-
-    return articleData
-
 def remove_values_from_list(the_list, val):
     return [value for value in the_list if value != val]
 
@@ -148,9 +108,13 @@ def file_writer_daemon():
         time.sleep(3)
 
 if __name__ == "__main__":
+    website = input("What is the target website: ")
+    search_depth = input("Type in the recursion depth for which you want to traverse links: ")
+    LINK_SEARCH_DEPTH = search_depth
     threading.Thread(target=file_writer_daemon, args=[]).start()
-    resp = requests.get("https://en.wikipedia.org/wiki/Main_Page")
+    resp = requests.get(website)
     backlinks = get_backlinks(resp)
     backlinks_new = download_data_from_link_list(backlinks)
     for x in range(LINK_SEARCH_DEPTH):
         backlinks_new = download_data_from_link_list(backlinks_new)
+    print("[ * ] Completed download... You may exit with Ctrl+C")
