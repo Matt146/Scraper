@@ -107,10 +107,12 @@ def file_writer_daemon():
             print("[Error] {}".format(e))
         time.sleep(3)
 
+
+
 if __name__ == "__main__":
     website = input("What is the target website: ")
-    search_depth = input("Type in the recursion depth for which you want to traverse links: ")
-    LINK_SEARCH_DEPTH = int(search_depth)
+    search_depth = int(input("Type in the recursion depth for which you want to traverse links: "))
+    LINK_SEARCH_DEPTH = search_depth
     threading.Thread(target=file_writer_daemon, args=[]).start()
     resp = requests.get(website)
     backlinks = get_backlinks(resp)
