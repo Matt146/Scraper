@@ -120,8 +120,9 @@ def download_data_from_link_list(links, more_than_text_or_no):
                     backlinks_tmp = get_all_backlinks(r)
                 print("[ + ]" + link)
                 with LOCK:
+                    domain = urlparse(r.url).netloc
                     path = urlparse(r.url).path
-                    data[path] = r.text
+                    data[domain + path] = r.text
                     for backlink in backlinks_tmp:
                         backlinks.append(backlink)
                     clicked_links.append(link)
@@ -130,16 +131,9 @@ def download_data_from_link_list(links, more_than_text_or_no):
     return backlinks
 
 def sanitize_folder_path(fpath):
-    fpath_correct = ""
-    if len(fpath) > 1:
-        if fpath[0] == "/":
-            fpath_correct = fpath[1:]
-        if fpath[len(fpath)-1] == "/":
-            fpath_correct = fpath[0:len(fpath)-2]
-        if fpath[0] == "/" and fpath[len(fpath)-1] == "/":
-            fpath_correct = fpath[1:len(fpath)-2]
-    else:
-        fpath_correct = "FILE_NO_NAME"
+    domain = str(urlparse(fpath).netloc).replace(".", "-")
+    path = str(urlparse(fpath).path)
+    fpath_correct = domain + path
 
     return fpath_correct
 
