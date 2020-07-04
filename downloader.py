@@ -122,7 +122,7 @@ def download_data_from_link_list(links, more_than_text_or_no):
                 with LOCK:
                     domain = urlparse(r.url).netloc
                     path = urlparse(r.url).path
-                    data[domain + path] = r.text
+                    data[domain + path] = r.content
                     for backlink in backlinks_tmp:
                         backlinks.append(backlink)
                     clicked_links.append(link)
@@ -168,7 +168,7 @@ def file_writer_daemon():
                 if k == "/":
                     fpath = "Data-Dump/index.html"
                     f = open(fpath, "wb")
-                    f.write(data[k].encode("utf-8"))
+                    f.write(data[k])
                     f.close()
                     keys_to_delete.append(k)
                 else:
@@ -177,14 +177,14 @@ def file_writer_daemon():
                     if "." in os.path.split(k_safe)[1]:
                         print(fpath)
                         f = open(fpath, "wb")
-                        f.write(data[k].encode("utf-8"))
+                        f.write(data[k])
                         f.close()
                         keys_to_delete.append(k)
                     else:
                         fpath = fpath + ".file"
                         print(fpath)
                         f = open(fpath, "wb")
-                        f.write(data[k].encode("utf-8"))
+                        f.write(data[k])
                         f.close()
                         keys_to_delete.append(k)
             with LOCK:
@@ -214,7 +214,8 @@ def proxy_download_data_from_link_list(links, the_proxies, more_than_text_or_no)
                 print("[ + ]" + link)
                 with LOCK:
                     path = urlparse(r.url).path
-                    data[path] = r.text
+                    domain = urlparse(r.url).netloc
+                    data[domain + path] = r.content
                     for backlink in backlinks_tmp:
                         backlinks.append(backlink)
                     clicked_links.append(link)
