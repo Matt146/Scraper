@@ -153,8 +153,8 @@ if __name__ == "__main__":
         r = requests.get("https://ipecho.net/plain", proxies=the_proxies)
         print("My IP: " + r.text)
         print(r.headers)
-        resp = requests.get(website, the_proxies)
+        resp = requests.get(website, proxies=the_proxies)
         backlinks = get_backlinks(resp)
-        backlinks_new = download_data_from_link_list(backlinks)
+        backlinks_new = proxy_download_data_from_link_list(backlinks, the_proxies)
         for x in range(LINK_SEARCH_DEPTH):
-            backlinks_new = download_data_from_link_list(backlinks_new)
+            backlinks_new = proxy_download_data_from_link_list(backlinks_new, the_proxies)
