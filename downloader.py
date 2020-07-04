@@ -96,7 +96,7 @@ def file_writer_daemon():
                 if not os.path.exists("Data-Dump"):
                     os.makedirs("Data-Dump")
                 print(k)
-                f = open("Data-Dump/" + gen_rand_str(25) + ".dwnld", "w")
+                f = open("Data-Dump/" + gen_rand_str(25) + ".dwnld", "w", encoding='utf-8')
                 f.write(data[k])
                 f.close()
                 keys_to_delete.append(k)
